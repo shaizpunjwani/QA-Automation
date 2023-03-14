@@ -1,0 +1,40 @@
+Xpath/axesMethodName::tagName
+
+Following Sibling
+
+//label[text()="Email"]/following-sibling::input[1]
+
+----------------------------------------------------
+Parent
+
+//label[text()="Email"]/parent::div
+
+---------------------------------------------------
+Child
+
+//div[@class="container"]/child::input
+
+(filtering the childs)
+
+//div[@class="container"]/child::input[@type="text"]
+
+-----------------------------------------------------
+
+Preceding
+
+//td[text()="Maria Anders"]/preceding::td/child::input
+
+------------------------------------------------------
+
+Ancestor
+
+//button[@type="submit" and @class="btn"]/ancestor::div[@class="container"]
+
+----------------------------------------------------------------------------
+
+Descendant
+
+//div[@class="container"]/descendant::div[@class="buttons"]
+
+--------------------------------------------------------------------------
+

@@ -1,0 +1,5 @@
+3 class
+
+1. test--notation and methods call
+2. methods-- methods bana liye eg:login ka method
+3. implementation--calling login method is method ma 3 method call kiye ha or in ko eik class ma call krlon of test
