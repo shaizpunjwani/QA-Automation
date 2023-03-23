@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 2, Time elapsed: 7.102 sec <<< FAILURE!
+Driver(TestCases.Testing)  Time elapsed: 6.675 sec  <<< FAILURE!
+java.lang.AssertionError: Error in loading the chrome driver
+	at org.testng.Assert.fail(Assert.java:89)
+	at Utlis.PageFactory.launchWebBrowser(PageFactory.java:22)
+	at TestCases.Testing.Driver(Testing.java:21)
+
+Driver(TestCases.Testing)  Time elapsed: 6.677 sec  <<< FAILURE!
+java.lang.AssertionError: Error in loading the chrome driver
+	at org.testng.Assert.fail(Assert.java:89)
+	at Utlis.PageFactory.launchWebBrowser(PageFactory.java:22)
+	at TestCases.Testing.Driver(Testing.java:21)
+
