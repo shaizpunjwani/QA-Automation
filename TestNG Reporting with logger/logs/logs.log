@@ -1,0 +1,30 @@
+[INFO ] 2023-03-26 01:23:33.844 [main] Log - Test cases started
+[INFO ] 2023-03-26 01:23:42.740 [main] Log - Starting test null
+[INFO ] 2023-03-26 01:23:44.387 [main] Log - This test is successful LandingHomepg
+[INFO ] 2023-03-26 01:23:44.389 [main] Log - Starting test null
+[INFO ] 2023-03-26 01:23:48.834 [main] Log - This test is successful landingMen
+[INFO ] 2023-03-26 01:23:48.836 [main] Log - Starting test null
+[INFO ] 2023-03-26 01:23:51.367 [main] Log - This test is successful Checkout
+[INFO ] 2023-03-26 01:23:51.369 [main] Log - Starting test null
+[INFO ] 2023-03-26 01:23:52.648 [main] Log - This test is successful Proceed
+[INFO ] 2023-03-26 01:23:52.852 [main] Log - Test case ended
+[INFO ] 2023-03-26 01:25:23.760 [main] Log - Test cases started
+[INFO ] 2023-03-26 01:25:29.940 [main] Log - Starting test LandingHomepg
+[INFO ] 2023-03-26 01:25:31.055 [main] Log - This test is successful LandingHomepg
+[INFO ] 2023-03-26 01:25:31.055 [main] Log - Starting test landingMen
+[INFO ] 2023-03-26 01:25:32.819 [main] Log - This test is successful landingMen
+[INFO ] 2023-03-26 01:25:32.820 [main] Log - Starting test Checkout
+[INFO ] 2023-03-26 01:25:34.512 [main] Log - This test is successful Checkout
+[INFO ] 2023-03-26 01:25:34.512 [main] Log - Starting test Proceed
+[INFO ] 2023-03-26 01:25:35.457 [main] Log - This test is successful Proceed
+[INFO ] 2023-03-26 01:25:35.564 [main] Log - Test case ended
+[INFO ] 2023-03-26 01:26:30.186 [main] Log - Test cases started
+[INFO ] 2023-03-26 01:26:36.555 [main] Log - Starting test LandingHomepg
+[INFO ] 2023-03-26 01:26:37.482 [main] Log - This test is successful LandingHomepg
+[INFO ] 2023-03-26 01:26:37.486 [main] Log - Starting test landingMen
+[INFO ] 2023-03-26 01:26:39.199 [main] Log - This test is successful landingMen
+[INFO ] 2023-03-26 01:26:39.200 [main] Log - Starting test Checkout
+[INFO ] 2023-03-26 01:26:40.683 [main] Log - This test is successful Checkout
+[INFO ] 2023-03-26 01:26:40.683 [main] Log - Starting test Proceed
+[INFO ] 2023-03-26 01:26:41.606 [main] Log - This test is successful Proceed
+[INFO ] 2023-03-26 01:26:41.685 [main] Log - Test case ended
