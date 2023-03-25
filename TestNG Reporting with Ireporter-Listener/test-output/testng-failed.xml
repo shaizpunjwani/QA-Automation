@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]">
+  <listeners>
+    <listener class-name="listener.ReportManager"/>
+  </listeners>
+  <test name="C:/Users/USER/Desktop/TestNG Reporting(failed)" preserve-order="true">
+    <classes>
+      <class name="TestCases.Testing">
+        <methods>
+          <include name="Driver"/>
+          <include name="Proceed"/>
+          <include name="Teardown"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

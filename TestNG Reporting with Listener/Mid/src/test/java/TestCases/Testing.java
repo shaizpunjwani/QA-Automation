@@ -9,18 +9,28 @@ import listener.ExtentReportListener;
 import org.openqa.selenium.devtools.v85.page.Page;
 import org.testng.annotations.*;
 import java.io.IOException;
+import java.lang.reflect.Method;
+import java.util.concurrent.TimeUnit;
+
 public class Testing extends PropertyReader {
 
     PropertyReader pr = new PropertyReader();
     Home home = new Home();
     Men men = new Men();
-
+    Checkout co=new Checkout();
 
     @BeforeClass()
     public void Driver() throws IOException {
-        pr.Load("C:\\Users\\USER\\Desktop\\TestNG Reporting\\Mid\\src\\test\\java\\Resources\\config.properties");
+        pr.Load("C:\\Users\\USER\\Desktop\\TestNG Reporting with Listener\\Mid\\src\\test\\java\\Resources\\config.properties");
         home.launchWebBrowser(pr.GetValue("url"));
     }
+
+//    @AfterMethod
+//    public void afterMethod(Method method) {
+//        Test test = method.getAnnotation(Test.class);
+//        System.out.println("Test name is " + test.testName());
+//        System.out.println("Test description is " + test.description());
+//    }
 
     @Test(priority = 1, description = "Landing home page")
     public void LandingHomepg() {
@@ -29,7 +39,8 @@ public class Testing extends PropertyReader {
 
 
     @Test(priority = 2, description = "Landing on Men section")
-    public void landingMen() throws IOException {
+    public void landingMen() throws IOException, InterruptedException {
+        //TimeUnit.SECONDS.sleep(7);
         home.NavigateMen("//*[@id=\"ui-id-5\"]");
         men.Landed("//*[@id=\"page-title-heading\"]/span");
     }
@@ -37,12 +48,26 @@ public class Testing extends PropertyReader {
     @Test(priority = 3, description = "Clicking on Product")
     public void Checkout() throws IOException {
         try{
-            men.Checkout("//*[@id=\"maincontent\"]/div[4]/div[1]/div[1]/div[3]/div/div/ol/li[2]/div/a/span/span/img/rgr");
+            men.Checkout("//*[@id=\"maincontent\"]/div[4]/div[1]/div[1]/div[3]/div/div/ol/li[2]/div/a/span/span/img");
         } catch(Exception e){
             PageFactory.error=e.getMessage();
-            Assert.assertTrue(false);
         }
     }
+
+    @Test(priority = 4, description = "filling out details")
+    public void Proceed(){
+        try{
+            co.Quantity("//*[@id=\"qty\"]", "1");
+            co.Option("//*[@id=\"option-label-size-143-item-166\"]");
+            co.Option("//*[@id=\"option-label-color-93-item-49\"]");
+            co.Proceed("//*[@id=\"product-addtocart-button\"]");
+
+        } catch (Exception e) {
+            PageFactory.error=e.getMessage();
+        }
+    }
+
+
     @AfterClass
     public void Teardown(){
         home.quit();

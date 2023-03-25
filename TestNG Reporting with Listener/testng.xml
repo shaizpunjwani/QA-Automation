@@ -2,8 +2,12 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <listeners>
-        <listener class-name="listener.ExtentReportListener"></listener>
-        <listener class-name="listener.Transformer"></listener>
+<!--        <listener class-name="listener.ExtentReportListener"></listener>-->
+<!--        <listener class-name="listener.Transformer"></listener>-->
+<!--        <listener class-name="listener.iinvokemethod"></listener>-->
+<!--        <listener class-name="listener.suitelistener"></listener>-->
+<!--        <listener class-name="listener.HookListener"></listener>-->
+        <listener class-name="listener.InterceptorListener"></listener>
     </listeners>
     <test verbose="2" preserve-order="true" name="C:/Users/USER/Desktop/TestNG Reporting">
         <classes>
