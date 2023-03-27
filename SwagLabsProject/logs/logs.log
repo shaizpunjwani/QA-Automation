@@ -1,0 +1,246 @@
+[INFO ] 2023-03-27 21:36:12.923 [main] Log - report step up
+[INFO ] 2023-03-27 21:36:18.993 [main] Log - Web Browser launched
+[INFO ] 2023-03-27 21:36:19.025 [main] Log - Starting test
+[INFO ] 2023-03-27 21:36:19.025 [main] Log - Using username/Firstname: problem_user
+[INFO ] 2023-03-27 21:36:19.026 [main] Log - logging
+[INFO ] 2023-03-27 21:36:19.026 [main] Log - Login atttempt
+[INFO ] 2023-03-27 21:36:20.173 [main] Log - Landed homepg
+[INFO ] 2023-03-27 21:36:20.510 [main] Log - Logout
+[INFO ] 2023-03-27 21:36:20.512 [main] Log - This test is successful Login
+[INFO ] 2023-03-27 21:36:20.513 [main] Log - Starting test
+[INFO ] 2023-03-27 21:36:20.513 [main] Log - Using username/Firstname: locked_out_user
+[INFO ] 2023-03-27 21:36:20.514 [main] Log - logging
+[INFO ] 2023-03-27 21:36:20.514 [main] Log - Login atttempt
+[ERROR] 2023-03-27 21:36:27.093 [main] Log - Test failed
+[INFO ] 2023-03-27 21:36:27.100 [main] Log - logging
+[INFO ] 2023-03-27 21:36:27.102 [main] Log - Retrying test
+[INFO ] 2023-03-27 21:36:27.103 [main] Log - Login atttempt
+[ERROR] 2023-03-27 21:36:33.497 [main] Log - Test failed
+[INFO ] 2023-03-27 21:36:33.498 [main] Log - Starting test
+[INFO ] 2023-03-27 21:36:33.499 [main] Log - Using username/Firstname: performance_glitch_user
+[INFO ] 2023-03-27 21:36:33.499 [main] Log - logging
+[INFO ] 2023-03-27 21:36:33.499 [main] Log - Login atttempt
+[INFO ] 2023-03-27 21:36:39.259 [main] Log - Landed homepg
+[INFO ] 2023-03-27 21:36:40.496 [main] Log - Logout
+[INFO ] 2023-03-27 21:36:40.500 [main] Log - This test is successful Login
+[INFO ] 2023-03-27 21:36:40.504 [main] Log - Starting test
+[INFO ] 2023-03-27 21:36:40.507 [main] Log - Using username: standard_user
+[INFO ] 2023-03-27 21:36:40.509 [main] Log - final login
+[INFO ] 2023-03-27 21:36:40.510 [main] Log - Login atttempt
+[INFO ] 2023-03-27 21:36:41.245 [main] Log - Landed homepg
+[INFO ] 2023-03-27 21:36:41.337 [main] Log - This test is successful FLogin
+[INFO ] 2023-03-27 21:36:41.347 [main] Log - Starting test
+[INFO ] 2023-03-27 21:36:41.348 [main] Log - Adding products to cart
+[INFO ] 2023-03-27 21:36:41.348 [main] Log - Selecting products
+[INFO ] 2023-03-27 21:36:41.397 [main] Log - added product
+[INFO ] 2023-03-27 21:36:41.486 [main] Log - added product
+[INFO ] 2023-03-27 21:36:41.663 [main] Log - This test is successful AddToCart
+[INFO ] 2023-03-27 21:36:41.666 [main] Log - Starting test
+[INFO ] 2023-03-27 21:36:41.668 [main] Log - Checking the Added products in Cart
+[INFO ] 2023-03-27 21:36:41.668 [main] Log - Checking products in cart
+[INFO ] 2023-03-27 21:36:41.668 [main] Log - Going to cart
+[INFO ] 2023-03-27 21:36:41.797 [main] Log - This test is successful CheckCart
+[INFO ] 2023-03-27 21:36:41.807 [main] Log - Starting test
+[INFO ] 2023-03-27 21:36:41.808 [main] Log - Removing products from Cart
+[INFO ] 2023-03-27 21:36:41.810 [main] Log - Removing products
+[INFO ] 2023-03-27 21:36:41.941 [main] Log - product removed
+[INFO ] 2023-03-27 21:36:42.017 [main] Log - This test is successful RemoveProduct
+[INFO ] 2023-03-27 21:36:42.018 [main] Log - Starting test
+[INFO ] 2023-03-27 21:36:42.020 [main] Log - Going to Checkout Products
+[INFO ] 2023-03-27 21:36:42.021 [main] Log - Check out products
+[INFO ] 2023-03-27 21:36:42.174 [main] Log - Going to checkout
+[INFO ] 2023-03-27 21:36:42.362 [main] Log - This test is successful CheckOut
+[INFO ] 2023-03-27 21:36:42.366 [main] Log - Starting test
+[INFO ] 2023-03-27 21:36:42.367 [main] Log - Using username/Firstname: 
+[INFO ] 2023-03-27 21:36:42.368 [main] Log - Filling out the incorrect details
+[INFO ] 2023-03-27 21:36:42.369 [main] Log - Setting incorrect values
+[INFO ] 2023-03-27 21:36:43.856 [main] Log - This test is successful AddIncorrectInfo
+[INFO ] 2023-03-27 21:36:43.860 [main] Log - Starting test
+[INFO ] 2023-03-27 21:36:43.862 [main] Log - Using username/Firstname: shaiz
+[INFO ] 2023-03-27 21:36:43.863 [main] Log - Filling out the incorrect details
+[INFO ] 2023-03-27 21:36:43.864 [main] Log - Setting incorrect values
+[INFO ] 2023-03-27 21:36:44.910 [main] Log - This test is successful AddIncorrectInfo
+[INFO ] 2023-03-27 21:36:44.912 [main] Log - Starting test
+[INFO ] 2023-03-27 21:36:44.914 [main] Log - Using username/Firstname: shaiz
+[INFO ] 2023-03-27 21:36:44.915 [main] Log - Filling out the incorrect details
+[INFO ] 2023-03-27 21:36:44.915 [main] Log - Setting incorrect values
+[INFO ] 2023-03-27 21:36:46.079 [main] Log - This test is successful AddIncorrectInfo
+[INFO ] 2023-03-27 21:36:46.081 [main] Log - Starting test
+[INFO ] 2023-03-27 21:36:46.082 [main] Log - Using username: shaiz
+[INFO ] 2023-03-27 21:36:46.084 [main] Log - Adding correct info
+[INFO ] 2023-03-27 21:36:46.084 [main] Log - Addning correct info
+[INFO ] 2023-03-27 21:36:47.019 [main] Log - This test is successful AddCorrectInfo
+[INFO ] 2023-03-27 21:36:47.021 [main] Log - Starting test
+[INFO ] 2023-03-27 21:36:47.022 [main] Log - Getting the total price, payment info
+[INFO ] 2023-03-27 21:36:47.023 [main] Log - Validating info
+[INFO ] 2023-03-27 21:36:47.304 [main] Log - payment infoSauceCard #31337
+[INFO ] 2023-03-27 21:36:47.304 [main] Log - ship infoFree Pony Express Delivery!
+[INFO ] 2023-03-27 21:36:47.304 [main] Log - price infoTotal: $10.79
+[INFO ] 2023-03-27 21:36:47.574 [main] Log - This test is successful GetInfo
+[INFO ] 2023-03-27 21:36:48.256 [main] Log - End
+[INFO ] 2023-03-27 21:39:24.432 [main] Log - Starting suiteAll Test Suite
+[INFO ] 2023-03-27 21:39:24.622 [main] Log - report step up
+[INFO ] 2023-03-27 21:39:30.300 [main] Log - Web Browser launched
+[INFO ] 2023-03-27 21:39:30.337 [main] Log - Starting test
+[INFO ] 2023-03-27 21:39:30.338 [main] Log - Using username/Firstname: problem_user
+[INFO ] 2023-03-27 21:39:30.342 [main] Log - logging
+[INFO ] 2023-03-27 21:39:30.343 [main] Log - Login atttempt
+[INFO ] 2023-03-27 21:39:31.450 [main] Log - Landed homepg
+[INFO ] 2023-03-27 21:39:31.827 [main] Log - Logout
+[INFO ] 2023-03-27 21:39:31.828 [main] Log - This test is successful Login
+[INFO ] 2023-03-27 21:39:31.830 [main] Log - Starting test
+[INFO ] 2023-03-27 21:39:31.831 [main] Log - Using username/Firstname: locked_out_user
+[INFO ] 2023-03-27 21:39:31.831 [main] Log - logging
+[INFO ] 2023-03-27 21:39:31.831 [main] Log - Login atttempt
+[ERROR] 2023-03-27 21:39:38.253 [main] Log - Test failed
+[INFO ] 2023-03-27 21:39:38.258 [main] Log - logging
+[INFO ] 2023-03-27 21:39:38.258 [main] Log - Retrying test
+[INFO ] 2023-03-27 21:39:38.259 [main] Log - Login atttempt
+[ERROR] 2023-03-27 21:39:44.370 [main] Log - Test failed
+[INFO ] 2023-03-27 21:39:44.372 [main] Log - Starting test
+[INFO ] 2023-03-27 21:39:44.373 [main] Log - Using username/Firstname: performance_glitch_user
+[INFO ] 2023-03-27 21:39:44.373 [main] Log - logging
+[INFO ] 2023-03-27 21:39:44.374 [main] Log - Login atttempt
+[INFO ] 2023-03-27 21:39:50.225 [main] Log - Landed homepg
+[INFO ] 2023-03-27 21:39:51.468 [main] Log - Logout
+[INFO ] 2023-03-27 21:39:51.470 [main] Log - This test is successful Login
+[INFO ] 2023-03-27 21:39:51.472 [main] Log - Starting test
+[INFO ] 2023-03-27 21:39:51.473 [main] Log - Using username: standard_user
+[INFO ] 2023-03-27 21:39:51.475 [main] Log - final login
+[INFO ] 2023-03-27 21:39:51.476 [main] Log - Login atttempt
+[INFO ] 2023-03-27 21:39:52.283 [main] Log - Landed homepg
+[INFO ] 2023-03-27 21:39:52.356 [main] Log - This test is successful FLogin
+[INFO ] 2023-03-27 21:39:52.360 [main] Log - Starting test
+[INFO ] 2023-03-27 21:39:52.360 [main] Log - Adding products to cart
+[INFO ] 2023-03-27 21:39:52.361 [main] Log - Selecting products
+[INFO ] 2023-03-27 21:39:52.401 [main] Log - added product
+[INFO ] 2023-03-27 21:39:52.481 [main] Log - added product
+[INFO ] 2023-03-27 21:39:52.659 [main] Log - This test is successful AddToCart
+[INFO ] 2023-03-27 21:39:52.660 [main] Log - Starting test
+[INFO ] 2023-03-27 21:39:52.662 [main] Log - Checking the Added products in Cart
+[INFO ] 2023-03-27 21:39:52.662 [main] Log - Checking products in cart
+[INFO ] 2023-03-27 21:39:52.662 [main] Log - Going to cart
+[INFO ] 2023-03-27 21:39:52.839 [main] Log - This test is successful CheckCart
+[INFO ] 2023-03-27 21:39:52.845 [main] Log - Starting test
+[INFO ] 2023-03-27 21:39:52.846 [main] Log - Removing products from Cart
+[INFO ] 2023-03-27 21:39:52.846 [main] Log - Removing products
+[INFO ] 2023-03-27 21:39:52.995 [main] Log - product removed
+[INFO ] 2023-03-27 21:39:53.075 [main] Log - This test is successful RemoveProduct
+[INFO ] 2023-03-27 21:39:53.077 [main] Log - Starting test
+[INFO ] 2023-03-27 21:39:53.078 [main] Log - Going to Checkout Products
+[INFO ] 2023-03-27 21:39:53.078 [main] Log - Check out products
+[INFO ] 2023-03-27 21:39:53.209 [main] Log - Going to checkout
+[INFO ] 2023-03-27 21:39:53.373 [main] Log - This test is successful CheckOut
+[INFO ] 2023-03-27 21:39:53.375 [main] Log - Starting test
+[INFO ] 2023-03-27 21:39:53.376 [main] Log - Using username/Firstname: 
+[INFO ] 2023-03-27 21:39:53.377 [main] Log - Filling out the incorrect details
+[INFO ] 2023-03-27 21:39:53.377 [main] Log - Setting incorrect values
+[INFO ] 2023-03-27 21:39:56.595 [main] Log - This test is successful AddIncorrectInfo
+[INFO ] 2023-03-27 21:39:56.599 [main] Log - Starting test
+[INFO ] 2023-03-27 21:39:56.601 [main] Log - Using username/Firstname: shaiz
+[INFO ] 2023-03-27 21:39:56.602 [main] Log - Filling out the incorrect details
+[INFO ] 2023-03-27 21:39:56.602 [main] Log - Setting incorrect values
+[INFO ] 2023-03-27 21:39:58.280 [main] Log - This test is successful AddIncorrectInfo
+[INFO ] 2023-03-27 21:39:58.284 [main] Log - Starting test
+[INFO ] 2023-03-27 21:39:58.286 [main] Log - Using username/Firstname: shaiz
+[INFO ] 2023-03-27 21:39:58.288 [main] Log - Filling out the incorrect details
+[INFO ] 2023-03-27 21:39:58.289 [main] Log - Setting incorrect values
+[INFO ] 2023-03-27 21:39:59.707 [main] Log - This test is successful AddIncorrectInfo
+[INFO ] 2023-03-27 21:39:59.709 [main] Log - Starting test
+[INFO ] 2023-03-27 21:39:59.710 [main] Log - Using username: shaiz
+[INFO ] 2023-03-27 21:39:59.710 [main] Log - Adding correct info
+[INFO ] 2023-03-27 21:39:59.710 [main] Log - Addning correct info
+[INFO ] 2023-03-27 21:40:00.683 [main] Log - This test is successful AddCorrectInfo
+[INFO ] 2023-03-27 21:40:00.684 [main] Log - Starting test
+[INFO ] 2023-03-27 21:40:00.685 [main] Log - Getting the total price, payment info
+[INFO ] 2023-03-27 21:40:00.686 [main] Log - Validating info
+[INFO ] 2023-03-27 21:40:00.964 [main] Log - payment infoSauceCard #31337
+[INFO ] 2023-03-27 21:40:00.964 [main] Log - ship infoFree Pony Express Delivery!
+[INFO ] 2023-03-27 21:40:00.965 [main] Log - price infoTotal: $10.79
+[INFO ] 2023-03-27 21:40:01.210 [main] Log - This test is successful GetInfo
+[INFO ] 2023-03-27 21:40:01.930 [main] Log - End
+[INFO ] 2023-03-27 21:40:01.932 [main] Log - Ending suiteAll Test Suite
+[INFO ] 2023-03-27 21:55:05.745 [main] Log - Starting suiteAll Test Suite
+[INFO ] 2023-03-27 21:55:05.930 [main] Log - report step up
+[INFO ] 2023-03-27 21:55:12.575 [main] Log - Web Browser launched
+[INFO ] 2023-03-27 21:55:12.612 [main] Log - Starting test
+[INFO ] 2023-03-27 21:55:12.613 [main] Log - Using username/Firstname: problem_user
+[INFO ] 2023-03-27 21:55:12.627 [main] Log - logging
+[INFO ] 2023-03-27 21:55:12.651 [main] Log - Login atttempt
+[INFO ] 2023-03-27 21:55:13.635 [main] Log - Landed homepg
+[INFO ] 2023-03-27 21:55:14.818 [main] Log - Logout
+[INFO ] 2023-03-27 21:55:14.819 [main] Log - This test is successful Login
+[INFO ] 2023-03-27 21:55:14.821 [main] Log - Starting test
+[INFO ] 2023-03-27 21:55:14.822 [main] Log - Using username/Firstname: locked_out_user
+[INFO ] 2023-03-27 21:55:14.823 [main] Log - logging
+[INFO ] 2023-03-27 21:55:14.823 [main] Log - Login atttempt
+[ERROR] 2023-03-27 21:55:21.086 [main] Log - Test failed
+[INFO ] 2023-03-27 21:55:21.088 [main] Log - logging
+[INFO ] 2023-03-27 21:55:21.088 [main] Log - Retrying test
+[INFO ] 2023-03-27 21:55:21.089 [main] Log - Login atttempt
+[ERROR] 2023-03-27 21:55:27.078 [main] Log - Test failed
+[INFO ] 2023-03-27 21:55:27.079 [main] Log - Starting test
+[INFO ] 2023-03-27 21:55:27.079 [main] Log - Using username/Firstname: performance_glitch_user
+[INFO ] 2023-03-27 21:55:27.080 [main] Log - logging
+[INFO ] 2023-03-27 21:55:27.080 [main] Log - Login atttempt
+[INFO ] 2023-03-27 21:55:32.856 [main] Log - Landed homepg
+[INFO ] 2023-03-27 21:55:33.914 [main] Log - Logout
+[INFO ] 2023-03-27 21:55:33.917 [main] Log - This test is successful Login
+[INFO ] 2023-03-27 21:55:33.920 [main] Log - Starting test
+[INFO ] 2023-03-27 21:55:33.922 [main] Log - Using username: standard_user
+[INFO ] 2023-03-27 21:55:33.923 [main] Log - final login
+[INFO ] 2023-03-27 21:55:33.924 [main] Log - Login atttempt
+[INFO ] 2023-03-27 21:55:34.813 [main] Log - Landed homepg
+[INFO ] 2023-03-27 21:55:34.891 [main] Log - This test is successful FLogin
+[INFO ] 2023-03-27 21:55:34.895 [main] Log - Starting test
+[INFO ] 2023-03-27 21:55:34.896 [main] Log - Adding products to cart
+[INFO ] 2023-03-27 21:55:34.896 [main] Log - Selecting products
+[INFO ] 2023-03-27 21:55:34.925 [main] Log - added product
+[INFO ] 2023-03-27 21:55:34.994 [main] Log - added product
+[INFO ] 2023-03-27 21:55:35.138 [main] Log - This test is successful AddToCart
+[INFO ] 2023-03-27 21:55:35.139 [main] Log - Starting test
+[INFO ] 2023-03-27 21:55:35.140 [main] Log - Checking the Added products in Cart
+[INFO ] 2023-03-27 21:55:35.141 [main] Log - Checking products in cart
+[INFO ] 2023-03-27 21:55:35.141 [main] Log - Going to cart
+[INFO ] 2023-03-27 21:55:35.289 [main] Log - This test is successful CheckCart
+[INFO ] 2023-03-27 21:55:35.291 [main] Log - Starting test
+[INFO ] 2023-03-27 21:55:35.293 [main] Log - Removing products from Cart
+[INFO ] 2023-03-27 21:55:35.294 [main] Log - Removing products
+[INFO ] 2023-03-27 21:55:35.413 [main] Log - product removed
+[INFO ] 2023-03-27 21:55:35.493 [main] Log - This test is successful RemoveProduct
+[INFO ] 2023-03-27 21:55:35.494 [main] Log - Starting test
+[INFO ] 2023-03-27 21:55:35.495 [main] Log - Going to Checkout Products
+[INFO ] 2023-03-27 21:55:35.495 [main] Log - Check out products
+[INFO ] 2023-03-27 21:55:35.626 [main] Log - Going to checkout
+[INFO ] 2023-03-27 21:55:35.763 [main] Log - This test is successful CheckOut
+[INFO ] 2023-03-27 21:55:35.766 [main] Log - Starting test
+[INFO ] 2023-03-27 21:55:35.767 [main] Log - Using username/Firstname: 
+[INFO ] 2023-03-27 21:55:35.769 [main] Log - Filling out the incorrect details
+[INFO ] 2023-03-27 21:55:35.769 [main] Log - Setting incorrect values
+[INFO ] 2023-03-27 21:55:37.058 [main] Log - This test is successful AddIncorrectInfo
+[INFO ] 2023-03-27 21:55:37.060 [main] Log - Starting test
+[INFO ] 2023-03-27 21:55:37.061 [main] Log - Using username/Firstname: shaiz
+[INFO ] 2023-03-27 21:55:37.062 [main] Log - Filling out the incorrect details
+[INFO ] 2023-03-27 21:55:37.063 [main] Log - Setting incorrect values
+[INFO ] 2023-03-27 21:55:38.534 [main] Log - This test is successful AddIncorrectInfo
+[INFO ] 2023-03-27 21:55:38.535 [main] Log - Starting test
+[INFO ] 2023-03-27 21:55:38.538 [main] Log - Using username/Firstname: shaiz
+[INFO ] 2023-03-27 21:55:38.538 [main] Log - Filling out the incorrect details
+[INFO ] 2023-03-27 21:55:38.538 [main] Log - Setting incorrect values
+[INFO ] 2023-03-27 21:55:39.706 [main] Log - This test is successful AddIncorrectInfo
+[INFO ] 2023-03-27 21:55:39.711 [main] Log - Starting test
+[INFO ] 2023-03-27 21:55:39.712 [main] Log - Using username: shaiz
+[INFO ] 2023-03-27 21:55:39.717 [main] Log - Adding correct info
+[INFO ] 2023-03-27 21:55:39.718 [main] Log - Addning correct info
+[INFO ] 2023-03-27 21:55:40.612 [main] Log - This test is successful AddCorrectInfo
+[INFO ] 2023-03-27 21:55:40.615 [main] Log - Starting test
+[INFO ] 2023-03-27 21:55:40.615 [main] Log - Getting the total price, payment info
+[INFO ] 2023-03-27 21:55:40.616 [main] Log - Validating info
+[INFO ] 2023-03-27 21:55:40.910 [main] Log - payment infoSauceCard #31337
+[INFO ] 2023-03-27 21:55:40.910 [main] Log - ship infoFree Pony Express Delivery!
+[INFO ] 2023-03-27 21:55:40.911 [main] Log - price infoTotal: $10.79
+[INFO ] 2023-03-27 21:55:41.130 [main] Log - This test is successful GetInfo
+[INFO ] 2023-03-27 21:55:41.879 [main] Log - End
+[INFO ] 2023-03-27 21:55:41.882 [main] Log - Ending suiteAll Test Suite
+[INFO ] 2023-03-27 21:55:41.998 [main] Log - Total failed methods: 2
+[INFO ] 2023-03-27 21:55:41.999 [main] Log - Total passed methods: 12
