@@ -1,0 +1,8 @@
+PageObjects\HomePage.class
+Logger\Log.class
+Testing\HomepgTest.class
+Implementation\Methods.class
+org\example\AppTest.class
+Utils\PageFactory.class
+Waiting\Wait.class
+Property\PropertyReader.class

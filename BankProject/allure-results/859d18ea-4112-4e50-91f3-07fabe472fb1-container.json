@@ -1,0 +1,1 @@
+{"uuid":"859d18ea-4112-4e50-91f3-07fabe472fb1","name":"customer","start":1680441128321,"stop":1680441176381,"children":["59dfeae7-921b-4bd8-ab23-5cb27d82d260","93a364db-0e9a-487d-a568-5ef800d7f60b"],"afters":[{"name":"TearDown","status":"passed","stage":"finished","description":"","start":1680441176152,"stop":1680441176381}]}

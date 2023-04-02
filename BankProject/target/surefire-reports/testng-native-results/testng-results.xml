@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="8873" started-at="2023-03-30T17:52:52Z" finished-at="2023-03-30T17:53:01Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="8873" started-at="2023-03-30T17:52:52Z" finished-at="2023-03-30T17:53:01Z">
+      <class name="Testing.HomepgTest">
+        <test-method status="PASS" signature="Driver()[pri:0, instance:Testing.HomepgTest@3ac04654]" name="Driver" is-config="true" duration-ms="7580" started-at="2023-03-30T22:52:52Z" finished-at="2023-03-30T22:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driver -->
+        <test-method status="PASS" signature="LandedHomepg()[pri:0, instance:Testing.HomepgTest@3ac04654]" name="LandedHomepg" duration-ms="918" started-at="2023-03-30T22:53:00Z" description="Verified Home page" finished-at="2023-03-30T22:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LandedHomepg -->
+        <test-method status="PASS" signature="NavigatedCustomerLogin()[pri:0, instance:Testing.HomepgTest@3ac04654]" name="NavigatedCustomerLogin" duration-ms="137" started-at="2023-03-30T22:53:01Z" description="Navigated to customer login" finished-at="2023-03-30T22:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatedCustomerLogin -->
+      </class> <!-- Testing.HomepgTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

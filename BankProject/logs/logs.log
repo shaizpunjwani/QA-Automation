@@ -1,0 +1,811 @@
+[INFO ] 2023-03-30 22:56:03.725 [main] Log - Web Browser launched
+[INFO ] 2023-03-30 22:56:04.697 [main] Log - landed on home page
+[INFO ] 2023-03-30 22:56:05.103 [main] Log - Successfully naviated to customer login
+[INFO ] 2023-03-31 00:13:56.204 [main] Log - Web Browser launched
+[INFO ] 2023-03-31 00:13:56.241 [main] Log - ----LandedHomepg----
+[INFO ] 2023-03-31 00:13:57.322 [main] Log - landed on home page
+[INFO ] 2023-03-31 00:13:57.332 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-03-31 00:13:57.553 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-03-31 00:13:57.697 [main] Log - Successfully naviated to customer login
+[INFO ] 2023-03-31 00:13:57.697 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-03-31 00:13:57.704 [main] Log - Test case ended
+[INFO ] 2023-03-31 00:13:57.730 [main] Log - Closing driver
+[INFO ] 2023-03-31 00:18:14.906 [main] Log - Web Browser launched
+[INFO ] 2023-03-31 00:18:14.947 [main] Log - ----LandedHomepg----
+[INFO ] 2023-03-31 00:18:16.039 [main] Log - landed on home page
+[INFO ] 2023-03-31 00:18:16.046 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-03-31 00:18:16.364 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-03-31 00:18:16.507 [main] Log - Successfully naviated to customer login
+[INFO ] 2023-03-31 00:18:16.507 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-03-31 00:18:16.516 [main] Log - Test case ended
+[INFO ] 2023-03-31 00:18:16.542 [main] Log - Closing driver
+[INFO ] 2023-03-31 01:14:34.099 [main] Log - Web Browser launched
+[INFO ] 2023-03-31 01:14:34.135 [main] Log - ----LandedHomepg----
+[INFO ] 2023-03-31 01:14:35.320 [main] Log - landed on home page
+[INFO ] 2023-03-31 01:14:35.328 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-03-31 01:14:35.583 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-03-31 01:14:35.707 [main] Log - Successfully naviated to customer login
+[INFO ] 2023-03-31 01:14:35.707 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-03-31 01:14:35.711 [main] Log - ----Select----
+[INFO ] 2023-03-31 01:14:36.753 [main] Log - Sucessfully selecting name
+[INFO ] 2023-03-31 01:14:36.759 [main] Log - Test case ended
+[INFO ] 2023-03-31 01:19:17.974 [main] Log - Web Browser launched
+[INFO ] 2023-03-31 01:19:17.993 [main] Log - ----LandedHomepg----
+[INFO ] 2023-03-31 01:19:19.058 [main] Log - landed on home page
+[INFO ] 2023-03-31 01:19:19.061 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-03-31 01:19:19.296 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-03-31 01:19:19.439 [main] Log - Successfully naviated to customer login
+[INFO ] 2023-03-31 01:19:19.440 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-03-31 01:19:19.444 [main] Log - ----Select----
+[INFO ] 2023-03-31 01:19:20.294 [main] Log - Sucessfully selecting name
+[INFO ] 2023-03-31 01:19:20.304 [main] Log - Test case ended
+[INFO ] 2023-03-31 01:38:37.101 [main] Log - Web Browser launched
+[INFO ] 2023-03-31 01:38:37.123 [main] Log - ----LandedHomepg----
+[INFO ] 2023-03-31 01:38:38.142 [main] Log - landed on home page
+[INFO ] 2023-03-31 01:38:38.146 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-03-31 01:38:38.494 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-03-31 01:38:38.643 [main] Log - Successfully naviated to customer login
+[INFO ] 2023-03-31 01:38:38.643 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-03-31 01:38:38.648 [main] Log - ----Select----
+[INFO ] 2023-03-31 01:38:40.362 [main] Log - Sucessfully selecting name
+[INFO ] 2023-03-31 01:38:40.377 [main] Log - Test case ended
+[INFO ] 2023-03-31 01:41:36.988 [main] Log - Web Browser launched
+[INFO ] 2023-03-31 01:41:37.013 [main] Log - ----LandedHomepg----
+[INFO ] 2023-03-31 01:41:37.996 [main] Log - landed on home page
+[INFO ] 2023-03-31 01:41:37.998 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-03-31 01:41:38.213 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-03-31 01:41:38.381 [main] Log - Successfully naviated to customer login
+[INFO ] 2023-03-31 01:41:38.381 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-03-31 01:41:38.387 [main] Log - ----Select----
+[INFO ] 2023-03-31 01:41:39.293 [main] Log - Sucessfully selecting name
+[INFO ] 2023-03-31 01:41:39.300 [main] Log - Test case ended
+[INFO ] 2023-03-31 01:43:08.843 [main] Log - Web Browser launched
+[INFO ] 2023-03-31 01:43:08.885 [main] Log - ----LandedHomepg----
+[INFO ] 2023-03-31 01:43:10.120 [main] Log - landed on home page
+[INFO ] 2023-03-31 01:43:10.124 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-03-31 01:43:10.340 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-03-31 01:43:10.489 [main] Log - Successfully naviated to customer login
+[INFO ] 2023-03-31 01:43:10.489 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-03-31 01:43:10.494 [main] Log - ----Select----
+[INFO ] 2023-03-31 01:43:12.170 [main] Log - Sucessfully selecting name
+[INFO ] 2023-03-31 01:43:12.183 [main] Log - Test case ended
+[INFO ] 2023-03-31 01:44:32.822 [main] Log - Web Browser launched
+[INFO ] 2023-03-31 01:44:32.841 [main] Log - ----LandedHomepg----
+[INFO ] 2023-03-31 01:44:33.905 [main] Log - landed on home page
+[INFO ] 2023-03-31 01:44:33.907 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-03-31 01:44:34.129 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-03-31 01:44:34.294 [main] Log - Successfully naviated to customer login
+[INFO ] 2023-03-31 01:44:34.295 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-03-31 01:44:34.301 [main] Log - ----Select----
+[INFO ] 2023-03-31 01:44:36.031 [main] Log - Sucessfully selecting name
+[INFO ] 2023-03-31 01:44:36.037 [main] Log - Test case ended
+[INFO ] 2023-03-31 01:47:19.585 [main] Log - Web Browser launched
+[INFO ] 2023-03-31 01:47:19.613 [main] Log - ----LandedHomepg----
+[INFO ] 2023-03-31 01:47:20.817 [main] Log - landed on home page
+[INFO ] 2023-03-31 01:47:20.823 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-03-31 01:47:21.152 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-03-31 01:47:21.292 [main] Log - Successfully naviated to customer login
+[INFO ] 2023-03-31 01:47:21.293 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-03-31 01:47:21.297 [main] Log - ----Select----
+[INFO ] 2023-03-31 01:47:23.078 [main] Log - Sucessfully selecting name
+[INFO ] 2023-03-31 01:47:23.089 [main] Log - Test case ended
+[INFO ] 2023-04-02 01:40:43.412 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 01:40:43.424 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 01:40:44.762 [main] Log - landed on home page
+[INFO ] 2023-04-02 01:40:44.764 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 01:40:44.877 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 01:40:44.986 [main] Log - Successfully naviated to customer login
+[INFO ] 2023-04-02 01:40:44.987 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 01:40:44.991 [main] Log - ----Select----
+[INFO ] 2023-04-02 01:40:46.529 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 01:40:46.534 [main] Log - Test case ended
+[INFO ] 2023-04-02 01:40:46.554 [main] Log - Closing driver
+[INFO ] 2023-04-02 02:07:09.512 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 02:07:09.530 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 02:07:10.340 [main] Log - landed on home page
+[INFO ] 2023-04-02 02:07:10.341 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 02:07:10.458 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 02:07:10.555 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 02:07:10.555 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 02:07:10.559 [main] Log - ----Select----
+[INFO ] 2023-04-02 02:07:11.342 [main] Log - Selected name
+[INFO ] 2023-04-02 02:07:12.015 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 02:07:12.015 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 02:07:12.021 [main] Log - ----EnterAmount----
+[ERROR] 2023-04-02 02:07:17.228 [main] Log - Failed Depositing cash
+[INFO ] 2023-04-02 02:07:17.390 [main] Log - SS taken
+[INFO ] 2023-04-02 02:07:17.394 [main] Log - log maintained
+[INFO ] 2023-04-02 02:07:17.428 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 02:11:01.937 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 02:11:01.950 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 02:11:02.720 [main] Log - landed on home page
+[INFO ] 2023-04-02 02:11:02.722 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 02:11:02.911 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 02:11:03.051 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 02:11:03.052 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 02:11:03.057 [main] Log - ----Select----
+[INFO ] 2023-04-02 02:11:03.790 [main] Log - Selected name
+[INFO ] 2023-04-02 02:11:04.464 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 02:11:04.464 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 02:11:04.474 [main] Log - ----EnterAmount----
+[ERROR] 2023-04-02 02:11:05.138 [main] Log - Failed Depositing cash
+[INFO ] 2023-04-02 02:11:05.336 [main] Log - SS taken
+[INFO ] 2023-04-02 02:11:05.339 [main] Log - log maintained
+[INFO ] 2023-04-02 02:11:05.368 [main] Log - ----EnterAmount----
+[ERROR] 2023-04-02 02:11:05.467 [main] Log - Failed Depositing cash
+[INFO ] 2023-04-02 02:11:05.630 [main] Log - SS taken
+[INFO ] 2023-04-02 02:11:05.634 [main] Log - log maintained
+[INFO ] 2023-04-02 02:11:05.646 [main] Log - Test case ended
+[INFO ] 2023-04-02 02:11:05.665 [main] Log - Closing driver
+[INFO ] 2023-04-02 02:12:12.751 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 02:12:12.767 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 02:12:13.705 [main] Log - landed on home page
+[INFO ] 2023-04-02 02:12:13.707 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 02:12:13.826 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 02:12:13.920 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 02:12:13.920 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 02:12:13.926 [main] Log - ----Select----
+[INFO ] 2023-04-02 02:12:14.671 [main] Log - Selected name
+[INFO ] 2023-04-02 02:12:15.364 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 02:12:15.364 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 02:12:15.370 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 02:12:16.062 [main] Log - Entered into deposit
+[ERROR] 2023-04-02 02:12:16.314 [main] Log - Failed Depositing cash
+[INFO ] 2023-04-02 02:12:16.608 [main] Log - SS taken
+[INFO ] 2023-04-02 02:12:16.610 [main] Log - log maintained
+[INFO ] 2023-04-02 02:12:16.623 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 02:12:16.746 [main] Log - Entered into deposit
+[ERROR] 2023-04-02 02:12:16.919 [main] Log - Failed Depositing cash
+[INFO ] 2023-04-02 02:12:17.120 [main] Log - SS taken
+[INFO ] 2023-04-02 02:12:17.124 [main] Log - log maintained
+[INFO ] 2023-04-02 02:12:17.135 [main] Log - Test case ended
+[INFO ] 2023-04-02 02:12:17.152 [main] Log - Closing driver
+[INFO ] 2023-04-02 02:15:13.665 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 02:15:13.678 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 02:15:14.434 [main] Log - landed on home page
+[INFO ] 2023-04-02 02:15:14.436 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 02:15:14.636 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 02:15:14.781 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 02:15:14.782 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 02:15:14.787 [main] Log - ----Select----
+[INFO ] 2023-04-02 02:15:15.547 [main] Log - Selected name
+[INFO ] 2023-04-02 02:15:16.230 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 02:15:16.231 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 02:15:16.236 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 02:15:16.918 [main] Log - Entered into deposit
+[ERROR] 2023-04-02 02:15:17.132 [main] Log - Failed Depositing cash
+[INFO ] 2023-04-02 02:15:17.381 [main] Log - SS taken
+[INFO ] 2023-04-02 02:15:17.382 [main] Log - log maintained
+[INFO ] 2023-04-02 02:15:17.397 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 02:15:17.516 [main] Log - Entered into deposit
+[ERROR] 2023-04-02 02:15:17.665 [main] Log - Failed Depositing cash
+[INFO ] 2023-04-02 02:15:17.859 [main] Log - SS taken
+[INFO ] 2023-04-02 02:15:17.860 [main] Log - log maintained
+[INFO ] 2023-04-02 02:15:17.875 [main] Log - Test case ended
+[INFO ] 2023-04-02 02:15:17.894 [main] Log - Closing driver
+[INFO ] 2023-04-02 02:16:45.935 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 02:16:45.950 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 02:16:46.717 [main] Log - landed on home page
+[INFO ] 2023-04-02 02:16:46.719 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 02:16:46.935 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 02:16:47.048 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 02:16:47.048 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 02:16:47.053 [main] Log - ----Select----
+[INFO ] 2023-04-02 02:16:47.793 [main] Log - Selected name
+[INFO ] 2023-04-02 02:16:48.479 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 02:16:48.480 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 02:16:48.485 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 02:16:49.173 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 02:16:49.478 [main] Log - Deposited
+[INFO ] 2023-04-02 02:16:49.478 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 02:16:49.486 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 02:16:49.595 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 02:16:49.808 [main] Log - Deposited
+[INFO ] 2023-04-02 02:16:49.809 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 02:16:49.819 [main] Log - Test case ended
+[INFO ] 2023-04-02 02:16:49.839 [main] Log - Closing driver
+[INFO ] 2023-04-02 02:22:14.506 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 02:22:14.525 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 02:22:15.321 [main] Log - landed on home page
+[INFO ] 2023-04-02 02:22:15.324 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 02:22:15.479 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 02:22:15.572 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 02:22:15.573 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 02:22:15.578 [main] Log - ----Select----
+[INFO ] 2023-04-02 02:22:16.344 [main] Log - Selected name
+[INFO ] 2023-04-02 02:22:17.052 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 02:22:17.053 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 02:22:17.058 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 02:22:17.720 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 02:22:18.025 [main] Log - Deposited
+[INFO ] 2023-04-02 02:22:18.026 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 02:22:18.029 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 02:22:18.143 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 02:22:18.356 [main] Log - Deposited
+[INFO ] 2023-04-02 02:22:18.356 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 02:22:18.358 [main] Log - Test case ended
+[INFO ] 2023-04-02 02:22:18.379 [main] Log - Closing driver
+[INFO ] 2023-04-02 02:29:38.220 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 02:29:38.232 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 02:29:39.002 [main] Log - landed on home page
+[INFO ] 2023-04-02 02:29:39.003 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 02:29:39.125 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 02:29:39.215 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 02:29:39.217 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 02:29:39.221 [main] Log - ----Select----
+[INFO ] 2023-04-02 02:29:39.992 [main] Log - Selected name
+[INFO ] 2023-04-02 02:29:40.680 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 02:29:40.680 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 02:29:40.686 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 02:29:41.389 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 02:29:41.705 [main] Log - Deposited
+[INFO ] 2023-04-02 02:29:41.705 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 02:29:41.709 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 02:29:41.818 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 02:29:42.032 [main] Log - Deposited
+[INFO ] 2023-04-02 02:29:42.033 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 02:29:42.037 [main] Log - ----EnterNAmount----
+[INFO ] 2023-04-02 02:29:42.192 [main] Log - Could not Deposit
+[INFO ] 2023-04-02 02:29:42.192 [main] Log - Sucessfully Depositing Negative value of cash
+[INFO ] 2023-04-02 02:29:42.194 [main] Log - Test case ended
+[INFO ] 2023-04-02 02:29:42.218 [main] Log - Closing driver
+[INFO ] 2023-04-02 15:10:12.576 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 15:10:12.598 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 15:10:13.902 [main] Log - landed on home page
+[INFO ] 2023-04-02 15:10:13.908 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 15:10:14.331 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 15:10:14.498 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 15:10:14.498 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 15:10:14.506 [main] Log - ----Select----
+[INFO ] 2023-04-02 15:10:15.540 [main] Log - Selected name
+[INFO ] 2023-04-02 15:10:16.316 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 15:10:16.316 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 15:10:16.336 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 15:10:17.175 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 15:10:17.601 [main] Log - Deposited
+[INFO ] 2023-04-02 15:10:17.601 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 15:10:17.609 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 15:10:17.806 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 15:10:18.116 [main] Log - Deposited
+[INFO ] 2023-04-02 15:10:18.117 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 15:10:18.125 [main] Log - ----EnterNAmount----
+[INFO ] 2023-04-02 15:10:18.359 [main] Log - Could not Deposit
+[INFO ] 2023-04-02 15:10:18.359 [main] Log - Sucessfully Depositing Negative value of cash
+[INFO ] 2023-04-02 15:10:18.363 [main] Log - ----Withdraw----
+[ERROR] 2023-04-02 15:10:18.556 [main] Log - Failed Withdrawing cash
+[INFO ] 2023-04-02 15:10:18.846 [main] Log - SS taken
+[INFO ] 2023-04-02 15:10:18.852 [main] Log - log maintained
+[INFO ] 2023-04-02 15:10:18.875 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 15:10:19.040 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 15:10:19.312 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 15:10:19.377 [main] Log - transaction proceeded
+[INFO ] 2023-04-02 15:10:19.377 [main] Log - amount leftover 100
+[INFO ] 2023-04-02 15:10:19.377 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 15:10:19.382 [main] Log - Test case ended
+[INFO ] 2023-04-02 15:10:19.422 [main] Log - Closing driver
+[INFO ] 2023-04-02 15:12:29.428 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 15:12:29.562 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 15:12:30.775 [main] Log - landed on home page
+[INFO ] 2023-04-02 15:12:30.777 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 15:12:30.960 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 15:12:31.107 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 15:12:31.108 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 15:12:31.114 [main] Log - ----Select----
+[INFO ] 2023-04-02 15:12:32.178 [main] Log - Selected name
+[INFO ] 2023-04-02 15:12:32.925 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 15:12:32.925 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 15:12:32.933 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 15:12:33.750 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 15:12:34.138 [main] Log - Deposited
+[INFO ] 2023-04-02 15:12:34.138 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 15:12:34.154 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 15:12:34.320 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 15:12:34.589 [main] Log - Deposited
+[INFO ] 2023-04-02 15:12:34.590 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 15:12:34.594 [main] Log - ----EnterNAmount----
+[INFO ] 2023-04-02 15:12:34.801 [main] Log - Could not Deposit
+[INFO ] 2023-04-02 15:12:34.802 [main] Log - Sucessfully Depositing Negative value of cash
+[INFO ] 2023-04-02 15:12:34.806 [main] Log - ----Withdraw----
+[ERROR] 2023-04-02 15:12:35.006 [main] Log - Failed Withdrawing cash
+[INFO ] 2023-04-02 15:12:35.289 [main] Log - SS taken
+[INFO ] 2023-04-02 15:12:35.291 [main] Log - log maintained
+[INFO ] 2023-04-02 15:12:35.310 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 15:12:35.459 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 15:12:35.712 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 15:12:35.790 [main] Log - transaction proceeded
+[INFO ] 2023-04-02 15:12:35.792 [main] Log - amount leftover 100
+[INFO ] 2023-04-02 15:12:35.792 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 15:12:35.798 [main] Log - Test case ended
+[INFO ] 2023-04-02 15:12:35.837 [main] Log - Closing driver
+[INFO ] 2023-04-02 15:16:38.723 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 15:16:38.760 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 15:16:39.804 [main] Log - landed on home page
+[INFO ] 2023-04-02 15:16:39.808 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 15:16:40.055 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 15:16:40.276 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 15:16:40.278 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 15:16:40.288 [main] Log - ----Select----
+[INFO ] 2023-04-02 15:16:41.350 [main] Log - Selected name
+[INFO ] 2023-04-02 15:16:42.167 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 15:16:42.170 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 15:16:42.186 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 15:16:43.116 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 15:16:43.532 [main] Log - Deposited
+[INFO ] 2023-04-02 15:16:43.533 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 15:16:43.541 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 15:16:43.714 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 15:16:44.025 [main] Log - Deposited
+[INFO ] 2023-04-02 15:16:44.025 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 15:16:44.035 [main] Log - ----EnterNAmount----
+[INFO ] 2023-04-02 15:16:44.282 [main] Log - Could not Deposit
+[INFO ] 2023-04-02 15:16:44.283 [main] Log - Sucessfully Depositing Negative value of cash
+[INFO ] 2023-04-02 15:16:44.293 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 15:16:45.026 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 15:16:45.334 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 15:16:45.422 [main] Log - transaction failed
+[INFO ] 2023-04-02 15:16:45.423 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 15:16:45.426 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 15:16:45.572 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 15:16:45.784 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 15:16:45.852 [main] Log - transaction proceeded
+[INFO ] 2023-04-02 15:16:45.852 [main] Log - amount leftover 100
+[INFO ] 2023-04-02 15:16:45.852 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 15:16:45.855 [main] Log - Test case ended
+[INFO ] 2023-04-02 15:16:45.904 [main] Log - Closing driver
+[INFO ] 2023-04-02 15:52:32.498 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 15:52:32.533 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 15:52:33.500 [main] Log - landed on home page
+[INFO ] 2023-04-02 15:52:33.503 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 15:52:33.827 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 15:52:33.984 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 15:52:33.984 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 15:52:33.990 [main] Log - ----Select----
+[INFO ] 2023-04-02 15:52:34.937 [main] Log - Selected name
+[INFO ] 2023-04-02 15:52:35.745 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 15:52:35.745 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 15:52:35.760 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 15:52:36.503 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 15:52:36.894 [main] Log - Deposited
+[INFO ] 2023-04-02 15:52:36.894 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 15:52:36.903 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 15:52:37.064 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 15:52:37.353 [main] Log - Deposited
+[INFO ] 2023-04-02 15:52:37.354 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 15:52:37.364 [main] Log - ----EnterNAmount----
+[INFO ] 2023-04-02 15:52:37.567 [main] Log - Could not Deposit
+[INFO ] 2023-04-02 15:52:37.568 [main] Log - Sucessfully Depositing Negative value of cash
+[INFO ] 2023-04-02 15:52:37.573 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 15:52:38.304 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 15:52:38.573 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 15:52:38.644 [main] Log - transaction failed
+[INFO ] 2023-04-02 15:52:38.645 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 15:52:38.648 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 15:52:38.798 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 15:52:39.021 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 15:52:39.087 [main] Log - transaction proceeded
+[INFO ] 2023-04-02 15:52:39.087 [main] Log - amount leftover 100
+[INFO ] 2023-04-02 15:52:39.087 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 15:52:39.090 [main] Log - ----transact----
+[INFO ] 2023-04-02 15:52:55.258 [main] Log - Transaction verified
+[INFO ] 2023-04-02 15:53:01.009 [main] Log - could not reset
+[INFO ] 2023-04-02 15:53:01.010 [main] Log - Sucessfully Checking transaction
+[INFO ] 2023-04-02 15:53:01.027 [main] Log - ----logout----
+[INFO ] 2023-04-02 15:53:01.380 [main] Log - logout done
+[INFO ] 2023-04-02 15:53:01.381 [main] Log - Sucessfully Logout
+[INFO ] 2023-04-02 15:53:01.385 [main] Log - Test case ended
+[INFO ] 2023-04-02 15:53:01.528 [main] Log - Closing driver
+[INFO ] 2023-04-02 15:57:06.407 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 15:57:06.447 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 15:57:07.536 [main] Log - landed on home page
+[INFO ] 2023-04-02 15:57:07.542 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 15:57:07.903 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 15:57:08.039 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 15:57:08.039 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 15:57:08.046 [main] Log - ----Select----
+[INFO ] 2023-04-02 15:57:09.111 [main] Log - Selected name
+[INFO ] 2023-04-02 15:57:09.877 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 15:57:09.877 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 15:57:09.888 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 15:57:10.730 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 15:57:11.138 [main] Log - Deposited
+[INFO ] 2023-04-02 15:57:11.138 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 15:57:11.143 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 15:57:11.289 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 15:57:11.566 [main] Log - Deposited
+[INFO ] 2023-04-02 15:57:11.566 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 15:57:11.570 [main] Log - ----EnterNAmount----
+[INFO ] 2023-04-02 15:57:11.774 [main] Log - Could not Deposit
+[INFO ] 2023-04-02 15:57:11.775 [main] Log - Sucessfully Depositing Negative value of cash
+[INFO ] 2023-04-02 15:57:11.781 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 15:57:12.493 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 15:57:12.814 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 15:57:12.888 [main] Log - transaction failed
+[INFO ] 2023-04-02 15:57:12.889 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 15:57:12.894 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 15:57:13.042 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 15:57:13.251 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 15:57:13.312 [main] Log - transaction proceeded
+[INFO ] 2023-04-02 15:57:13.312 [main] Log - amount leftover 100
+[INFO ] 2023-04-02 15:57:13.313 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 15:57:13.316 [main] Log - ----transact----
+[INFO ] 2023-04-02 15:58:12.292 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 15:58:12.328 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 15:58:13.402 [main] Log - landed on home page
+[INFO ] 2023-04-02 15:58:13.416 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 15:58:13.724 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 15:58:13.865 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 15:58:13.865 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 15:58:13.872 [main] Log - ----Select----
+[INFO ] 2023-04-02 15:58:14.825 [main] Log - Selected name
+[INFO ] 2023-04-02 15:58:15.638 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 15:58:15.639 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 15:58:15.655 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 15:58:16.439 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 15:58:16.865 [main] Log - Deposited
+[INFO ] 2023-04-02 15:58:16.866 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 15:58:16.872 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 15:58:17.047 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 15:58:17.369 [main] Log - Deposited
+[INFO ] 2023-04-02 15:58:17.371 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 15:58:17.374 [main] Log - ----EnterNAmount----
+[INFO ] 2023-04-02 15:58:17.582 [main] Log - Could not Deposit
+[INFO ] 2023-04-02 15:58:17.583 [main] Log - Sucessfully Depositing Negative value of cash
+[INFO ] 2023-04-02 15:58:17.588 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 15:58:18.296 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 15:58:18.566 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 15:58:18.646 [main] Log - transaction failed
+[INFO ] 2023-04-02 15:58:18.646 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 15:58:18.658 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 15:58:18.808 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 15:58:19.009 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 15:58:19.083 [main] Log - transaction proceeded
+[INFO ] 2023-04-02 15:58:19.084 [main] Log - amount leftover 100
+[INFO ] 2023-04-02 15:58:19.084 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 15:58:19.096 [main] Log - ----transact----
+[INFO ] 2023-04-02 15:58:35.250 [main] Log - Transaction verified
+[INFO ] 2023-04-02 15:58:40.994 [main] Log - could not reset
+[INFO ] 2023-04-02 15:58:40.994 [main] Log - Sucessfully Checking transaction
+[INFO ] 2023-04-02 15:58:41.000 [main] Log - Test case ended
+[INFO ] 2023-04-02 15:58:41.090 [main] Log - Closing driver
+[INFO ] 2023-04-02 16:02:04.178 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 16:02:04.195 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 16:02:06.348 [main] Log - landed on home page
+[INFO ] 2023-04-02 16:02:06.355 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 16:02:06.645 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 16:02:06.801 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 16:02:06.802 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 16:02:06.812 [main] Log - ----Select----
+[INFO ] 2023-04-02 16:02:07.815 [main] Log - Selected name
+[INFO ] 2023-04-02 16:02:08.564 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 16:02:08.566 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 16:02:08.572 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 16:02:09.315 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 16:02:09.716 [main] Log - Deposited
+[INFO ] 2023-04-02 16:02:09.717 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 16:02:09.721 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 16:02:09.887 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 16:02:10.171 [main] Log - Deposited
+[INFO ] 2023-04-02 16:02:10.172 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 16:02:10.181 [main] Log - ----EnterNAmount----
+[INFO ] 2023-04-02 16:02:10.435 [main] Log - Could not Deposit
+[INFO ] 2023-04-02 16:02:10.436 [main] Log - Sucessfully Depositing Negative value of cash
+[INFO ] 2023-04-02 16:02:10.441 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 16:02:11.197 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 16:02:11.529 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 16:02:11.609 [main] Log - transaction failed
+[INFO ] 2023-04-02 16:02:11.610 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 16:02:11.612 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 16:02:11.751 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 16:02:11.963 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 16:02:12.024 [main] Log - transaction proceeded
+[INFO ] 2023-04-02 16:02:12.024 [main] Log - amount leftover 100
+[INFO ] 2023-04-02 16:02:12.025 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 16:02:12.029 [main] Log - ----transact----
+[INFO ] 2023-04-02 16:02:28.308 [main] Log - Transaction verified
+[INFO ] 2023-04-02 16:02:34.930 [main] Log - reset done
+[INFO ] 2023-04-02 16:02:34.932 [main] Log - Sucessfully Checking transaction
+[INFO ] 2023-04-02 16:02:34.936 [main] Log - ----logout----
+[INFO ] 2023-04-02 16:02:40.443 [main] Log - logout done
+[INFO ] 2023-04-02 16:02:40.444 [main] Log - Sucessfully Logout
+[INFO ] 2023-04-02 16:02:40.447 [main] Log - Test case ended
+[INFO ] 2023-04-02 16:02:40.500 [main] Log - Closing driver
+[INFO ] 2023-04-02 16:09:16.495 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 16:09:16.515 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 16:09:18.091 [main] Log - landed on home page
+[INFO ] 2023-04-02 16:09:18.101 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 16:09:18.409 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 16:09:18.546 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 16:09:18.547 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 16:09:18.554 [main] Log - ----Select----
+[INFO ] 2023-04-02 16:09:19.577 [main] Log - Selected name
+[INFO ] 2023-04-02 16:09:20.437 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 16:09:20.438 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 16:09:20.448 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 16:09:21.207 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 16:09:21.676 [main] Log - Deposited
+[INFO ] 2023-04-02 16:09:21.677 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 16:09:21.688 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 16:09:21.870 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 16:09:22.218 [main] Log - Deposited
+[INFO ] 2023-04-02 16:09:22.219 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 16:09:22.223 [main] Log - ----EnterNAmount----
+[INFO ] 2023-04-02 16:09:22.449 [main] Log - Could not Deposit
+[INFO ] 2023-04-02 16:09:22.450 [main] Log - Sucessfully Depositing Negative value of cash
+[INFO ] 2023-04-02 16:09:22.453 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 16:09:23.276 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 16:09:23.766 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 16:09:23.873 [main] Log - transaction failed
+[INFO ] 2023-04-02 16:09:23.873 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 16:09:23.879 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 16:09:24.048 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 16:09:24.265 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 16:09:24.329 [main] Log - transaction proceeded
+[INFO ] 2023-04-02 16:09:24.329 [main] Log - amount leftover 100
+[INFO ] 2023-04-02 16:09:24.330 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 16:09:24.333 [main] Log - ----transact----
+[INFO ] 2023-04-02 16:09:40.730 [main] Log - Transaction verified
+[INFO ] 2023-04-02 16:09:47.376 [main] Log - reset done
+[INFO ] 2023-04-02 16:09:47.377 [main] Log - Sucessfully Checking transaction
+[INFO ] 2023-04-02 16:09:47.380 [main] Log - ----logout----
+[INFO ] 2023-04-02 16:09:52.821 [main] Log - logout done
+[INFO ] 2023-04-02 16:09:52.821 [main] Log - Sucessfully Logout
+[INFO ] 2023-04-02 16:09:52.825 [main] Log - Test case ended
+[INFO ] 2023-04-02 16:09:52.873 [main] Log - Closing driver
+[INFO ] 2023-04-02 16:52:25.638 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 16:52:25.674 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 16:52:26.702 [main] Log - landed on home page
+[INFO ] 2023-04-02 16:52:26.706 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 16:52:26.929 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 16:52:27.062 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 16:52:27.062 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 16:52:27.071 [main] Log - ----Select----
+[INFO ] 2023-04-02 16:52:27.984 [main] Log - Selected name
+[INFO ] 2023-04-02 16:52:28.759 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 16:52:28.759 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 16:52:28.773 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 16:52:29.558 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 16:52:29.979 [main] Log - Deposited
+[INFO ] 2023-04-02 16:52:29.980 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 16:52:29.988 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 16:52:30.149 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 16:52:30.437 [main] Log - Deposited
+[INFO ] 2023-04-02 16:52:30.438 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 16:52:30.441 [main] Log - ----EnterNAmount----
+[INFO ] 2023-04-02 16:52:30.649 [main] Log - Could not Deposit
+[INFO ] 2023-04-02 16:52:30.650 [main] Log - Sucessfully Depositing Negative value of cash
+[INFO ] 2023-04-02 16:52:30.655 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 16:52:31.377 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 16:52:31.646 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 16:52:31.723 [main] Log - transaction failed
+[INFO ] 2023-04-02 16:52:31.723 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 16:52:31.726 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 16:52:31.866 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 16:52:32.079 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 16:52:32.146 [main] Log - transaction proceeded
+[INFO ] 2023-04-02 16:52:32.147 [main] Log - amount leftover 100
+[INFO ] 2023-04-02 16:52:32.147 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 16:52:32.152 [main] Log - ----transact----
+[INFO ] 2023-04-02 16:52:48.362 [main] Log - Transaction verified
+[INFO ] 2023-04-02 16:52:54.485 [main] Log - reset done
+[INFO ] 2023-04-02 16:52:54.487 [main] Log - Sucessfully Checking transaction
+[INFO ] 2023-04-02 16:52:54.495 [main] Log - ----logout----
+[INFO ] 2023-04-02 16:53:00.198 [main] Log - logout done
+[INFO ] 2023-04-02 16:53:00.199 [main] Log - Sucessfully Logout
+[INFO ] 2023-04-02 16:53:00.205 [main] Log - Test case ended
+[INFO ] 2023-04-02 16:53:04.039 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 16:53:04.041 [main] Log - ----NavigatedbankmanagerLogin----
+[INFO ] 2023-04-02 16:53:05.423 [main] Log - Navigated to bank manager login
+[INFO ] 2023-04-02 16:53:05.424 [main] Log - Sucessfully Navigated to bank manager login
+[INFO ] 2023-04-02 16:53:05.426 [main] Log - Test case ended
+[INFO ] 2023-04-02 16:53:05.431 [main] Log - Closing driver
+[INFO ] 2023-04-02 16:55:11.810 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 16:55:11.853 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 16:55:12.881 [main] Log - landed on home page
+[INFO ] 2023-04-02 16:55:12.886 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 16:55:13.139 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 16:55:13.314 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 16:55:13.314 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 16:55:13.449 [main] Log - ----Select----
+[INFO ] 2023-04-02 16:55:14.552 [main] Log - Selected name
+[INFO ] 2023-04-02 16:55:15.316 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 16:55:15.316 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 16:55:15.324 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 16:55:16.111 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 16:55:16.502 [main] Log - Deposited
+[INFO ] 2023-04-02 16:55:16.502 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 16:55:16.509 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 16:55:16.676 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 16:55:16.977 [main] Log - Deposited
+[INFO ] 2023-04-02 16:55:16.978 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 16:55:16.981 [main] Log - ----EnterNAmount----
+[INFO ] 2023-04-02 16:55:17.187 [main] Log - Could not Deposit
+[INFO ] 2023-04-02 16:55:17.188 [main] Log - Sucessfully Depositing Negative value of cash
+[INFO ] 2023-04-02 16:55:17.192 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 16:55:17.920 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 16:55:18.177 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 16:55:18.251 [main] Log - transaction failed
+[INFO ] 2023-04-02 16:55:18.251 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 16:55:18.254 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 16:55:18.400 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 16:55:18.616 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 16:55:18.678 [main] Log - transaction proceeded
+[INFO ] 2023-04-02 16:55:18.678 [main] Log - amount leftover 100
+[INFO ] 2023-04-02 16:55:18.679 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 16:55:18.682 [main] Log - ----transact----
+[INFO ] 2023-04-02 16:55:34.873 [main] Log - Transaction verified
+[INFO ] 2023-04-02 16:55:41.268 [main] Log - reset done
+[INFO ] 2023-04-02 16:55:41.269 [main] Log - Sucessfully Checking transaction
+[INFO ] 2023-04-02 16:55:41.277 [main] Log - ----logout----
+[INFO ] 2023-04-02 16:55:46.987 [main] Log - logout done
+[INFO ] 2023-04-02 16:55:46.989 [main] Log - Sucessfully Logout
+[INFO ] 2023-04-02 16:55:46.997 [main] Log - Test case ended
+[INFO ] 2023-04-02 16:55:51.116 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 16:55:51.119 [main] Log - ----NavigatedbankmanagerLogin----
+[INFO ] 2023-04-02 16:55:52.467 [main] Log - Navigated to bank manager login
+[INFO ] 2023-04-02 16:55:52.467 [main] Log - Sucessfully Navigated to bank manager login
+[INFO ] 2023-04-02 16:55:52.473 [main] Log - Test case ended
+[INFO ] 2023-04-02 16:55:52.487 [main] Log - Closing driver
+[INFO ] 2023-04-02 17:05:58.015 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 17:05:58.036 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 17:05:59.616 [main] Log - landed on home page
+[INFO ] 2023-04-02 17:05:59.622 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 17:05:59.855 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 17:05:59.973 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 17:05:59.974 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 17:05:59.978 [main] Log - ----NavigatedbankmanagerLogin----
+[INFO ] 2023-04-02 17:06:00.094 [main] Log - Navigated to bank manager login
+[INFO ] 2023-04-02 17:06:00.096 [main] Log - Sucessfully Navigated to bank manager login
+[INFO ] 2023-04-02 17:06:00.101 [main] Log - ----Select----
+[ERROR] 2023-04-02 17:06:05.377 [main] Log - Failed selecting name at login page
+[INFO ] 2023-04-02 17:06:05.550 [main] Log - SS taken
+[INFO ] 2023-04-02 17:06:05.552 [main] Log - log maintained
+[INFO ] 2023-04-02 17:06:05.572 [main] Log - ----EnterAmount----
+[ERROR] 2023-04-02 17:06:16.332 [main] Log - Failed Depositing cash
+[INFO ] 2023-04-02 17:06:16.676 [main] Log - SS taken
+[INFO ] 2023-04-02 17:06:16.683 [main] Log - log maintained
+[INFO ] 2023-04-02 17:06:16.705 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 17:46:10.127 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 17:46:10.170 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 17:46:11.225 [main] Log - landed on home page
+[INFO ] 2023-04-02 17:46:11.229 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 17:46:11.440 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 17:46:11.582 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 17:46:11.582 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 17:46:11.586 [main] Log - ----NavigatedbankmanagerLogin----
+[INFO ] 2023-04-02 17:46:11.761 [main] Log - Navigated to bank manager login
+[INFO ] 2023-04-02 17:46:11.762 [main] Log - Sucessfully Navigated to bank manager login
+[INFO ] 2023-04-02 17:46:11.768 [main] Log - ----Select----
+[ERROR] 2023-04-02 17:46:17.181 [main] Log - Failed selecting name at login page
+[INFO ] 2023-04-02 17:46:17.362 [main] Log - SS taken
+[INFO ] 2023-04-02 17:46:17.365 [main] Log - log maintained
+[INFO ] 2023-04-02 17:46:17.388 [main] Log - ----EnterAmount----
+[ERROR] 2023-04-02 17:46:28.137 [main] Log - Failed Depositing cash
+[INFO ] 2023-04-02 17:46:28.606 [main] Log - SS taken
+[INFO ] 2023-04-02 17:46:28.607 [main] Log - log maintained
+[INFO ] 2023-04-02 17:46:28.619 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 17:47:02.105 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 17:47:02.141 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 17:47:03.260 [main] Log - landed on home page
+[INFO ] 2023-04-02 17:47:03.266 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 17:47:03.632 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 17:47:03.795 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 17:47:03.795 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 17:47:03.801 [main] Log - ----NavigatedbankmanagerLogin----
+[INFO ] 2023-04-02 17:47:03.951 [main] Log - Navigated to bank manager login
+[INFO ] 2023-04-02 17:47:03.952 [main] Log - Sucessfully Navigated to bank manager login
+[INFO ] 2023-04-02 17:47:03.960 [main] Log - ----Select----
+[ERROR] 2023-04-02 17:47:09.322 [main] Log - Failed selecting name at login page
+[ERROR] 2023-04-02 17:47:09.340 [main] Log - Failed selecting name at login page
+[INFO ] 2023-04-02 17:47:09.348 [main] Log - Test case ended
+[INFO ] 2023-04-02 17:47:52.554 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 17:47:52.589 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 17:47:53.629 [main] Log - landed on home page
+[INFO ] 2023-04-02 17:47:53.637 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 17:47:53.827 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 17:47:53.985 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 17:47:53.986 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 17:47:54.002 [main] Log - ----NavigatedbankmanagerLogin----
+[INFO ] 2023-04-02 17:47:54.242 [main] Log - Navigated to bank manager login
+[INFO ] 2023-04-02 17:47:54.243 [main] Log - Sucessfully Navigated to bank manager login
+[INFO ] 2023-04-02 17:47:54.254 [main] Log - ----Select----
+[INFO ] 2023-04-02 17:48:30.360 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 17:48:30.396 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 17:48:31.477 [main] Log - landed on home page
+[INFO ] 2023-04-02 17:48:31.483 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 17:48:31.773 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 17:48:31.917 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 17:48:31.917 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 17:48:31.921 [main] Log - ----NavigatedbankmanagerLogin----
+[INFO ] 2023-04-02 17:48:32.045 [main] Log - Navigated to bank manager login
+[INFO ] 2023-04-02 17:48:32.046 [main] Log - Sucessfully Navigated to bank manager login
+[INFO ] 2023-04-02 17:48:32.052 [main] Log - ----Select----
+[ERROR] 2023-04-02 17:48:37.378 [main] Log - Failed selecting name at login page
+[ERROR] 2023-04-02 17:48:37.398 [main] Log - Failed selecting name at login page
+[INFO ] 2023-04-02 17:48:37.409 [main] Log - Test case ended
+[INFO ] 2023-04-02 17:51:25.241 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 17:51:25.257 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 17:51:26.080 [main] Log - landed on home page
+[INFO ] 2023-04-02 17:51:26.082 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 17:51:26.254 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 17:51:26.394 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 17:51:26.395 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 17:51:26.400 [main] Log - ----Select----
+[INFO ] 2023-04-02 17:51:27.170 [main] Log - Selected name
+[INFO ] 2023-04-02 17:51:27.913 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 17:51:27.914 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 17:51:27.921 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 17:51:28.733 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 17:51:29.171 [main] Log - Deposited
+[INFO ] 2023-04-02 17:51:29.171 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 17:51:29.175 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 17:51:29.335 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 17:51:29.641 [main] Log - Deposited
+[INFO ] 2023-04-02 17:51:29.641 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 17:51:29.649 [main] Log - ----EnterNAmount----
+[INFO ] 2023-04-02 17:51:29.867 [main] Log - Could not Deposit
+[INFO ] 2023-04-02 17:51:29.867 [main] Log - Sucessfully Depositing Negative value of cash
+[INFO ] 2023-04-02 17:51:29.871 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 17:51:30.588 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 17:51:30.864 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 17:51:30.936 [main] Log - transaction failed
+[INFO ] 2023-04-02 17:51:30.936 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 17:51:30.945 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 17:51:31.083 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 17:51:31.305 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 17:51:31.370 [main] Log - transaction proceeded
+[INFO ] 2023-04-02 17:51:31.371 [main] Log - amount leftover 100
+[INFO ] 2023-04-02 17:51:31.371 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 17:51:31.374 [main] Log - ----transact----
+[INFO ] 2023-04-02 17:51:47.133 [main] Log - Transaction verified
+[INFO ] 2023-04-02 17:51:53.243 [main] Log - reset done
+[INFO ] 2023-04-02 17:51:53.244 [main] Log - Sucessfully Checking transaction
+[INFO ] 2023-04-02 17:51:53.248 [main] Log - ----logout----
+[INFO ] 2023-04-02 17:51:59.015 [main] Log - logout done
+[INFO ] 2023-04-02 17:51:59.018 [main] Log - Sucessfully Logout
+[INFO ] 2023-04-02 17:51:59.021 [main] Log - Test case ended
+[INFO ] 2023-04-02 17:51:59.182 [main] Log - Navigated to bank manager login
+[INFO ] 2023-04-02 18:12:18.164 [main] Log - Web Browser launched
+[INFO ] 2023-04-02 18:12:18.196 [main] Log - ----LandedHomepg----
+[INFO ] 2023-04-02 18:12:19.270 [main] Log - landed on home page
+[INFO ] 2023-04-02 18:12:19.277 [main] Log - Sucessfully Verified Home page
+[INFO ] 2023-04-02 18:12:19.621 [main] Log - ----NavigatedCustomerLogin----
+[INFO ] 2023-04-02 18:12:19.751 [main] Log - Navigated to customer login
+[INFO ] 2023-04-02 18:12:19.751 [main] Log - Sucessfully Navigated to customer login
+[INFO ] 2023-04-02 18:12:19.756 [main] Log - ----Select----
+[INFO ] 2023-04-02 18:12:20.670 [main] Log - Selected name
+[INFO ] 2023-04-02 18:12:21.394 [main] Log - Proceeded to mainpage
+[INFO ] 2023-04-02 18:12:21.394 [main] Log - Sucessfully selecting name at login page
+[INFO ] 2023-04-02 18:12:21.410 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 18:12:22.333 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 18:12:22.808 [main] Log - Deposited
+[INFO ] 2023-04-02 18:12:22.809 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 18:12:22.816 [main] Log - ----EnterAmount----
+[INFO ] 2023-04-02 18:12:23.036 [main] Log - Entered into deposit
+[INFO ] 2023-04-02 18:12:23.419 [main] Log - Deposited
+[INFO ] 2023-04-02 18:12:23.419 [main] Log - Sucessfully Depositing cash
+[INFO ] 2023-04-02 18:12:23.427 [main] Log - ----EnterNAmount----
+[INFO ] 2023-04-02 18:12:23.772 [main] Log - Could not Deposit
+[INFO ] 2023-04-02 18:12:23.773 [main] Log - Sucessfully Depositing Negative value of cash
+[INFO ] 2023-04-02 18:12:23.782 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 18:12:24.538 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 18:12:24.900 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 18:12:24.996 [main] Log - transaction failed
+[INFO ] 2023-04-02 18:12:24.996 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 18:12:25.000 [main] Log - ----Withdraw----
+[INFO ] 2023-04-02 18:12:25.173 [main] Log - Entered into withdraw page
+[INFO ] 2023-04-02 18:12:25.453 [main] Log - Entered the withdrawn amount
+[INFO ] 2023-04-02 18:12:25.533 [main] Log - transaction proceeded
+[INFO ] 2023-04-02 18:12:25.533 [main] Log - amount leftover 100
+[INFO ] 2023-04-02 18:12:25.534 [main] Log - Sucessfully Withdrawing cash
+[INFO ] 2023-04-02 18:12:25.538 [main] Log - ----transact----
+[INFO ] 2023-04-02 18:12:41.546 [main] Log - Transaction verified
+[INFO ] 2023-04-02 18:12:48.001 [main] Log - reset done
+[INFO ] 2023-04-02 18:12:48.002 [main] Log - Sucessfully Checking transaction
+[INFO ] 2023-04-02 18:12:48.007 [main] Log - ----logout----
+[INFO ] 2023-04-02 18:12:53.454 [main] Log - logout done
+[INFO ] 2023-04-02 18:12:53.455 [main] Log - Sucessfully Logout
+[INFO ] 2023-04-02 18:12:53.465 [main] Log - Test case ended
+[INFO ] 2023-04-02 18:12:53.667 [main] Log - Navigated to bank manager login
+[INFO ] 2023-04-02 18:12:55.156 [main] Log - getting into add customer
+[INFO ] 2023-04-02 18:12:56.073 [main] Log - sended data
+[INFO ] 2023-04-02 18:12:56.152 [main] Log - Closing driver
