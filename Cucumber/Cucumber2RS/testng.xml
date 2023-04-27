@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/USER/IdeaProjects/Cucumber2RS">
+        <classes>
+            <class name="CucumberOptions.TestNGTestRunner"></class>
+            <class name="CucumberOptions.FailedTestRunner"></class>
+        </classes>
+    </test>
+</suite>

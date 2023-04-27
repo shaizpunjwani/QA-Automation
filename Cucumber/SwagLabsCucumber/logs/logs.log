@@ -1,0 +1,35 @@
+[INFO ] 2023-04-27 01:33:05.236 [main] CartPage - setting driver
+[INFO ] 2023-04-27 01:33:06.626 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 01:33:06.935 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 01:33:07.080 [main] LoginPage - entered password
+[INFO ] 2023-04-27 01:33:07.343 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 01:33:07.488 [main] LandingPage - checking landing page
+[INFO ] 2023-04-27 01:33:07.681 [main] CartPage - driver quit
+[INFO ] 2023-04-27 01:33:08.963 [main] CartPage - setting driver
+[INFO ] 2023-04-27 01:33:10.284 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 01:33:10.538 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 01:33:10.701 [main] LoginPage - entered password
+[INFO ] 2023-04-27 01:33:10.853 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 01:33:21.223 [main] CartPage - capturing ss of failed scenario
+[INFO ] 2023-04-27 01:33:21.659 [main] CartPage - driver quit
+[INFO ] 2023-04-27 01:33:22.906 [main] CartPage - setting driver
+[INFO ] 2023-04-27 01:33:29.960 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 01:33:30.188 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 01:33:30.354 [main] LoginPage - entered password
+[INFO ] 2023-04-27 01:33:30.603 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 01:33:30.730 [main] LandingPage - checking landing page
+[INFO ] 2023-04-27 01:33:30.844 [main] CartPage - driver quit
+[INFO ] 2023-04-27 01:33:32.105 [main] CartPage - setting driver
+[INFO ] 2023-04-27 01:34:19.470 [main] CartPage - capturing ss of failed scenario
+[INFO ] 2023-04-27 01:34:19.605 [main] CartPage - driver quit
+[INFO ] 2023-04-27 01:34:20.877 [main] CartPage - setting driver
+[INFO ] 2023-04-27 01:34:22.843 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 01:34:23.130 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 01:34:23.301 [main] LoginPage - entered password
+[INFO ] 2023-04-27 01:34:23.561 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 01:34:23.815 [main] LandingPage - checking landing page
+[INFO ] 2023-04-27 01:34:23.958 [main] LandingPage - clicking side menu
+[INFO ] 2023-04-27 01:34:24.120 [main] LandingPage - clicked on logout button
+[INFO ] 2023-04-27 01:34:24.168 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 01:34:24.329 [main] CartPage - driver quit
+[INFO ] 2023-04-27 01:34:25.565 [main] CartPage - setting driver

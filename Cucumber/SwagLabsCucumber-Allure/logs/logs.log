@@ -1,0 +1,158 @@
+[INFO ] 2023-04-27 01:33:05.236 [main] CartPage - setting driver
+[INFO ] 2023-04-27 01:33:06.626 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 01:33:06.935 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 01:33:07.080 [main] LoginPage - entered password
+[INFO ] 2023-04-27 01:33:07.343 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 01:33:07.488 [main] LandingPage - checking landing page
+[INFO ] 2023-04-27 01:33:07.681 [main] CartPage - driver quit
+[INFO ] 2023-04-27 01:33:08.963 [main] CartPage - setting driver
+[INFO ] 2023-04-27 01:33:10.284 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 01:33:10.538 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 01:33:10.701 [main] LoginPage - entered password
+[INFO ] 2023-04-27 01:33:10.853 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 01:33:21.223 [main] CartPage - capturing ss of failed scenario
+[INFO ] 2023-04-27 01:33:21.659 [main] CartPage - driver quit
+[INFO ] 2023-04-27 01:33:22.906 [main] CartPage - setting driver
+[INFO ] 2023-04-27 01:33:29.960 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 01:33:30.188 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 01:33:30.354 [main] LoginPage - entered password
+[INFO ] 2023-04-27 01:33:30.603 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 01:33:30.730 [main] LandingPage - checking landing page
+[INFO ] 2023-04-27 01:33:30.844 [main] CartPage - driver quit
+[INFO ] 2023-04-27 01:33:32.105 [main] CartPage - setting driver
+[INFO ] 2023-04-27 01:34:19.470 [main] CartPage - capturing ss of failed scenario
+[INFO ] 2023-04-27 01:34:19.605 [main] CartPage - driver quit
+[INFO ] 2023-04-27 01:34:20.877 [main] CartPage - setting driver
+[INFO ] 2023-04-27 01:34:22.843 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 01:34:23.130 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 01:34:23.301 [main] LoginPage - entered password
+[INFO ] 2023-04-27 01:34:23.561 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 01:34:23.815 [main] LandingPage - checking landing page
+[INFO ] 2023-04-27 01:34:23.958 [main] LandingPage - clicking side menu
+[INFO ] 2023-04-27 01:34:24.120 [main] LandingPage - clicked on logout button
+[INFO ] 2023-04-27 01:34:24.168 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 01:34:24.329 [main] CartPage - driver quit
+[INFO ] 2023-04-27 01:34:25.565 [main] CartPage - setting driver
+[INFO ] 2023-04-27 21:55:05.508 [main] CartPage - setting driver
+[INFO ] 2023-04-27 21:55:10.297 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 21:55:10.623 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 21:55:10.823 [main] LoginPage - entered password
+[INFO ] 2023-04-27 21:55:11.142 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 21:55:11.296 [main] LandingPage - checking landing page
+[INFO ] 2023-04-27 21:55:11.742 [main] CartPage - driver quit
+[INFO ] 2023-04-27 21:55:14.005 [main] CartPage - setting driver
+[INFO ] 2023-04-27 21:55:20.410 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 21:55:20.697 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 21:55:20.900 [main] LoginPage - entered password
+[INFO ] 2023-04-27 21:55:21.093 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 21:55:31.434 [main] CartPage - driver quit
+[INFO ] 2023-04-27 21:55:33.138 [main] CartPage - setting driver
+[INFO ] 2023-04-27 21:55:35.500 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 21:55:35.779 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 21:55:35.953 [main] LoginPage - entered password
+[INFO ] 2023-04-27 21:55:36.157 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 21:55:36.403 [main] LandingPage - checking landing page
+[INFO ] 2023-04-27 21:55:36.718 [main] CartPage - driver quit
+[INFO ] 2023-04-27 21:55:38.417 [main] CartPage - setting driver
+[INFO ] 2023-04-27 21:55:39.935 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 21:55:40.354 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 21:55:40.528 [main] LoginPage - entered password
+[INFO ] 2023-04-27 21:55:45.767 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 21:55:45.908 [main] LandingPage - checking landing page
+[INFO ] 2023-04-27 21:55:46.194 [main] CartPage - driver quit
+[INFO ] 2023-04-27 21:55:47.938 [main] CartPage - setting driver
+[INFO ] 2023-04-27 21:55:50.237 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 21:55:50.661 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 21:55:50.860 [main] LoginPage - entered password
+[INFO ] 2023-04-27 21:55:51.216 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 21:55:51.536 [main] LandingPage - checking landing page
+[INFO ] 2023-04-27 21:55:51.727 [main] LandingPage - clicking side menu
+[INFO ] 2023-04-27 21:55:51.971 [main] LandingPage - clicked on logout button
+[INFO ] 2023-04-27 21:55:52.019 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 21:55:52.291 [main] CartPage - driver quit
+[INFO ] 2023-04-27 21:55:53.600 [main] CartPage - setting driver
+[INFO ] 2023-04-27 21:55:54.824 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 21:55:55.058 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 21:55:55.369 [main] LoginPage - entered password
+[INFO ] 2023-04-27 21:55:55.692 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 21:55:56.135 [main] LandingPage - checking landing page
+[INFO ] 2023-04-27 21:55:56.380 [main] LandingPage - items added to cart
+[INFO ] 2023-04-27 21:55:56.575 [main] LandingPage - goto cart
+[INFO ] 2023-04-27 21:55:56.763 [main] CartPage - goto checkout
+[INFO ] 2023-04-27 21:55:56.912 [main] CheckoutPage - entered username
+[INFO ] 2023-04-27 21:55:57.067 [main] CheckoutPage - entered lastname
+[INFO ] 2023-04-27 21:55:57.193 [main] CheckoutPage - entered zipcode
+[INFO ] 2023-04-27 21:55:57.315 [main] CheckoutPage - clicked on continue button
+[INFO ] 2023-04-27 21:55:57.412 [main] FinalPage - checked items are populated
+[INFO ] 2023-04-27 21:55:57.574 [main] FinalPage - getting price of items
+[INFO ] 2023-04-27 21:55:57.627 [main] FinalPage - retrieved total tax
+[INFO ] 2023-04-27 21:55:57.666 [main] FinalPage - retrieved total price
+[INFO ] 2023-04-27 21:55:57.666 [main] FinalPage - retrieved total prices and verified
+[INFO ] 2023-04-27 21:55:57.727 [main] FinalPage - info retrieved
+[INFO ] 2023-04-27 21:55:57.851 [main] FinalPage - order ended
+[INFO ] 2023-04-27 21:55:57.928 [main] FinalPage - order confirmed
+[INFO ] 2023-04-27 21:55:58.114 [main] CartPage - driver quit
+[INFO ] 2023-04-27 21:55:59.624 [main] CartPage - setting driver
+[INFO ] 2023-04-27 21:56:01.264 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 21:56:01.806 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 21:56:02.106 [main] LoginPage - entered password
+[INFO ] 2023-04-27 21:56:02.474 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 21:56:02.769 [main] LandingPage - checking landing page
+[INFO ] 2023-04-27 21:56:02.955 [main] LandingPage - goto cart
+[INFO ] 2023-04-27 21:56:03.103 [main] CartPage - goto checkout
+[INFO ] 2023-04-27 21:56:03.269 [main] CheckoutPage - entered username
+[INFO ] 2023-04-27 21:56:03.455 [main] CheckoutPage - entered lastname
+[INFO ] 2023-04-27 21:56:03.584 [main] CheckoutPage - entered zipcode
+[INFO ] 2023-04-27 21:56:03.697 [main] CheckoutPage - clicked on continue button
+[INFO ] 2023-04-27 21:56:04.143 [main] CartPage - driver quit
+[INFO ] 2023-04-27 21:56:28.567 [TestNG-PoolService-0] CartPage - setting driver
+[INFO ] 2023-04-27 21:56:28.567 [TestNG-PoolService-1] CartPage - setting driver
+[INFO ] 2023-04-27 21:56:30.468 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-04-27 21:56:30.853 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-04-27 21:56:31.060 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-04-27 21:56:31.270 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-04-27 21:56:31.290 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-04-27 21:56:31.533 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-04-27 21:56:31.665 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-04-27 21:56:31.927 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-04-27 21:56:31.927 [TestNG-PoolService-1] LandingPage - checking landing page
+[INFO ] 2023-04-27 21:56:32.047 [TestNG-PoolService-1] LandingPage - goto cart
+[INFO ] 2023-04-27 21:56:32.234 [TestNG-PoolService-1] CartPage - goto checkout
+[INFO ] 2023-04-27 21:56:32.428 [TestNG-PoolService-1] CheckoutPage - entered username
+[INFO ] 2023-04-27 21:56:32.567 [TestNG-PoolService-1] CheckoutPage - entered lastname
+[INFO ] 2023-04-27 21:56:32.717 [TestNG-PoolService-1] CheckoutPage - entered zipcode
+[INFO ] 2023-04-27 21:56:32.874 [TestNG-PoolService-1] CheckoutPage - clicked on continue button
+[INFO ] 2023-04-27 21:56:33.284 [TestNG-PoolService-1] CartPage - driver quit
+[INFO ] 2023-04-27 21:56:42.188 [TestNG-PoolService-0] CartPage - driver quit
+[INFO ] 2023-04-27 22:28:00.964 [main] CartPage - setting driver
+[INFO ] 2023-04-27 22:28:03.585 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 22:28:03.875 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 22:28:04.207 [main] LoginPage - entered password
+[INFO ] 2023-04-27 22:28:04.481 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 22:28:04.657 [main] LandingPage - checking landing page
+[INFO ] 2023-04-27 22:28:04.994 [main] CartPage - driver quit
+[INFO ] 2023-04-27 22:28:06.729 [main] CartPage - setting driver
+[INFO ] 2023-04-27 22:39:01.379 [main] CartPage - setting driver
+[INFO ] 2023-04-27 22:39:03.551 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 22:39:03.711 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 22:39:03.818 [main] LoginPage - entered password
+[INFO ] 2023-04-27 22:39:04.053 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 22:39:04.169 [main] LandingPage - checking landing page
+[INFO ] 2023-04-27 22:39:04.343 [main] CartPage - driver quit
+[INFO ] 2023-04-27 22:39:05.401 [main] CartPage - setting driver
+[INFO ] 2023-04-27 22:39:07.520 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 22:39:07.723 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 22:39:07.851 [main] LoginPage - entered password
+[INFO ] 2023-04-27 22:39:07.952 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 22:45:06.689 [main] CartPage - setting driver
+[INFO ] 2023-04-27 22:45:07.958 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 22:45:08.180 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 22:45:08.294 [main] LoginPage - entered password
+[INFO ] 2023-04-27 22:45:08.468 [main] LoginPage - clicked on login button
+[INFO ] 2023-04-27 22:45:08.655 [main] LandingPage - checking landing page
+[INFO ] 2023-04-27 22:45:08.955 [main] CartPage - driver quit
+[INFO ] 2023-04-27 22:45:10.220 [main] CartPage - setting driver
+[INFO ] 2023-04-27 22:45:11.690 [main] LoginPage - checking loginpage
+[INFO ] 2023-04-27 22:45:11.925 [main] LoginPage - entering uname
+[INFO ] 2023-04-27 22:45:12.065 [main] LoginPage - entered password
+[INFO ] 2023-04-27 22:45:12.174 [main] LoginPage - clicked on login button
