@@ -1,0 +1,174 @@
+[INFO ] 2023-06-27 15:34:21.091 [main] Log - fetching data
+[INFO ] 2023-06-27 15:34:21.295 [main] Log - veryfing status
+[INFO ] 2023-06-27 15:34:21.296 [main] Log - status verified
+[INFO ] 2023-06-27 15:34:21.297 [main] Log - status verified
+[INFO ] 2023-06-27 15:34:21.298 [main] Log - status verified
+[INFO ] 2023-06-27 15:34:21.299 [main] Log - status verified
+[INFO ] 2023-06-27 15:34:21.300 [main] Log - status verified
+[INFO ] 2023-06-27 15:34:21.300 [main] Log - status verified
+[INFO ] 2023-06-27 15:34:21.301 [main] Log - status verified
+[INFO ] 2023-06-27 15:34:21.302 [main] Log - status verified
+[INFO ] 2023-06-27 15:34:21.302 [main] Log - status verified
+[INFO ] 2023-06-27 15:34:21.303 [main] Log - status verified
+[INFO ] 2023-06-27 15:34:21.318 [main] Log - veryfing types
+[INFO ] 2023-06-27 15:34:21.319 [main] Log - getting the expected output
+[INFO ] 2023-06-27 17:19:13.608 [main] Log - fetching data
+[INFO ] 2023-06-27 17:19:13.778 [main] Log - veryfing status
+[INFO ] 2023-06-27 17:19:13.779 [main] Log - status verified
+[INFO ] 2023-06-27 17:19:13.779 [main] Log - status verified
+[INFO ] 2023-06-27 17:19:13.780 [main] Log - status verified
+[INFO ] 2023-06-27 17:19:13.780 [main] Log - status verified
+[INFO ] 2023-06-27 17:19:13.781 [main] Log - status verified
+[INFO ] 2023-06-27 17:19:13.781 [main] Log - status verified
+[INFO ] 2023-06-27 17:19:13.782 [main] Log - status verified
+[INFO ] 2023-06-27 17:19:13.782 [main] Log - status verified
+[INFO ] 2023-06-27 17:19:13.783 [main] Log - status verified
+[INFO ] 2023-06-27 17:19:13.784 [main] Log - status verified
+[INFO ] 2023-06-27 17:19:13.798 [main] Log - veryfing types
+[INFO ] 2023-06-27 17:19:13.799 [main] Log - getting the expected output
+[INFO ] 2023-06-27 17:33:31.198 [main] Log - fetching data
+[INFO ] 2023-06-27 17:33:31.354 [main] Log - veryfing status
+[INFO ] 2023-06-27 17:33:31.354 [main] Log - status verified
+[INFO ] 2023-06-27 17:33:31.355 [main] Log - status verified
+[INFO ] 2023-06-27 17:33:31.355 [main] Log - status verified
+[INFO ] 2023-06-27 17:33:31.356 [main] Log - status verified
+[INFO ] 2023-06-27 17:33:31.356 [main] Log - status verified
+[INFO ] 2023-06-27 17:33:31.357 [main] Log - status verified
+[INFO ] 2023-06-27 17:33:31.357 [main] Log - status verified
+[INFO ] 2023-06-27 17:33:31.358 [main] Log - status verified
+[INFO ] 2023-06-27 17:33:31.358 [main] Log - status verified
+[INFO ] 2023-06-27 17:33:31.359 [main] Log - status verified
+[INFO ] 2023-06-27 17:33:31.369 [main] Log - veryfing types
+[INFO ] 2023-06-27 17:33:31.370 [main] Log - getting the expected output
+[INFO ] 2023-06-27 17:33:31.376 [main] Log - verified d types
+[INFO ] 2023-06-27 17:39:34.841 [main] Log - fetching data
+[INFO ] 2023-06-27 17:39:35.032 [main] Log - veryfing status
+[INFO ] 2023-06-27 17:39:35.033 [main] Log - status verified
+[INFO ] 2023-06-27 17:39:35.033 [main] Log - status verified
+[INFO ] 2023-06-27 17:39:35.034 [main] Log - status verified
+[INFO ] 2023-06-27 17:39:35.034 [main] Log - status verified
+[INFO ] 2023-06-27 17:39:35.035 [main] Log - status verified
+[INFO ] 2023-06-27 17:39:35.035 [main] Log - status verified
+[INFO ] 2023-06-27 17:39:35.036 [main] Log - status verified
+[INFO ] 2023-06-27 17:39:35.036 [main] Log - status verified
+[INFO ] 2023-06-27 17:39:35.037 [main] Log - status verified
+[INFO ] 2023-06-27 17:39:35.038 [main] Log - status verified
+[INFO ] 2023-06-27 17:39:35.050 [main] Log - veryfing types
+[INFO ] 2023-06-27 17:39:35.051 [main] Log - getting the expected output
+[INFO ] 2023-06-27 17:39:35.055 [main] Log - verified d types
+[INFO ] 2023-06-27 17:39:35.058 [main] Log - checking schemas
+[ERROR] 2023-06-27 17:39:36.064 [main] Log - The schemas of the two objects are different.
+[INFO ] 2023-06-27 17:57:26.669 [main] Log - report step up
+[INFO ] 2023-06-27 17:57:32.085 [main] Log - fetching data
+[INFO ] 2023-06-27 17:57:32.320 [main] Log - Starting test
+[INFO ] 2023-06-27 17:57:32.321 [main] Log - verify status
+[INFO ] 2023-06-27 17:57:32.322 [main] Log - veryfing status
+[INFO ] 2023-06-27 17:57:32.323 [main] Log - status verified
+[INFO ] 2023-06-27 17:57:32.323 [main] Log - status verified
+[INFO ] 2023-06-27 17:57:32.324 [main] Log - status verified
+[INFO ] 2023-06-27 17:57:32.325 [main] Log - status verified
+[INFO ] 2023-06-27 17:57:32.325 [main] Log - status verified
+[INFO ] 2023-06-27 17:57:32.326 [main] Log - status verified
+[INFO ] 2023-06-27 17:57:32.326 [main] Log - status verified
+[INFO ] 2023-06-27 17:57:32.327 [main] Log - status verified
+[INFO ] 2023-06-27 17:57:32.327 [main] Log - status verified
+[INFO ] 2023-06-27 17:57:32.328 [main] Log - status verified
+[INFO ] 2023-06-27 17:57:32.334 [main] Log - This test is successful Fetch_Json
+[INFO ] 2023-06-27 17:57:32.343 [main] Log - Starting test
+[INFO ] 2023-06-27 17:57:32.345 [main] Log - verify data types
+[INFO ] 2023-06-27 17:57:32.346 [main] Log - veryfing types
+[INFO ] 2023-06-27 17:57:32.346 [main] Log - getting the expected output
+[INFO ] 2023-06-27 17:57:32.353 [main] Log - verified d types
+[INFO ] 2023-06-27 17:57:32.355 [main] Log - This test is successful Verify_Types
+[INFO ] 2023-06-27 17:57:32.359 [main] Log - Starting test
+[INFO ] 2023-06-27 17:57:32.361 [main] Log - verify schemas
+[INFO ] 2023-06-27 17:57:32.362 [main] Log - checking schemas
+[ERROR] 2023-06-27 17:57:33.279 [main] Log - The schemas of the two objects are different.
+[INFO ] 2023-06-27 17:57:33.280 [main] Log - This test is successful Verify_Schemas
+[INFO ] 2023-06-27 17:57:34.078 [main] Log - End
+[INFO ] 2023-06-28 12:48:48.047 [main] Log - report step up
+[INFO ] 2023-06-28 12:48:53.777 [main] Log - fetching data
+[INFO ] 2023-06-28 12:48:54.077 [main] Log - Starting test
+[INFO ] 2023-06-28 12:48:54.079 [main] Log - verify status
+[INFO ] 2023-06-28 12:48:54.080 [main] Log - veryfing status
+[INFO ] 2023-06-28 12:48:54.080 [main] Log - status verified
+[INFO ] 2023-06-28 12:48:54.081 [main] Log - status verified
+[INFO ] 2023-06-28 12:48:54.081 [main] Log - status verified
+[INFO ] 2023-06-28 12:48:54.082 [main] Log - status verified
+[INFO ] 2023-06-28 12:48:54.082 [main] Log - status verified
+[INFO ] 2023-06-28 12:48:54.083 [main] Log - status verified
+[INFO ] 2023-06-28 12:48:54.083 [main] Log - status verified
+[INFO ] 2023-06-28 12:48:54.084 [main] Log - status verified
+[INFO ] 2023-06-28 12:48:54.085 [main] Log - status verified
+[INFO ] 2023-06-28 12:48:54.085 [main] Log - status verified
+[INFO ] 2023-06-28 12:48:54.090 [main] Log - This test is successful Fetch_Json
+[INFO ] 2023-06-28 12:48:54.097 [main] Log - Starting test
+[INFO ] 2023-06-28 12:48:54.098 [main] Log - verify data types
+[INFO ] 2023-06-28 12:48:54.099 [main] Log - veryfing types
+[INFO ] 2023-06-28 12:48:54.100 [main] Log - getting the expected output
+[INFO ] 2023-06-28 12:48:54.106 [main] Log - verified d types
+[INFO ] 2023-06-28 12:48:54.108 [main] Log - This test is successful Verify_Types
+[INFO ] 2023-06-28 12:48:54.112 [main] Log - Starting test
+[INFO ] 2023-06-28 12:48:54.113 [main] Log - verify schemas
+[INFO ] 2023-06-28 12:48:54.113 [main] Log - checking schemas
+[ERROR] 2023-06-28 12:48:55.105 [main] Log - The schemas of the two objects are different.
+[INFO ] 2023-06-28 12:48:55.107 [main] Log - This test is successful Verify_Schemas
+[INFO ] 2023-06-28 12:48:55.953 [main] Log - End
+[INFO ] 2023-07-07 16:52:37.625 [main] Log - report step up
+[INFO ] 2023-07-07 16:52:43.725 [main] Log - fetching data
+[INFO ] 2023-07-07 16:52:43.964 [main] Log - Starting test
+[INFO ] 2023-07-07 16:52:43.967 [main] Log - verify status
+[INFO ] 2023-07-07 16:52:43.968 [main] Log - veryfing status
+[INFO ] 2023-07-07 16:52:43.969 [main] Log - status verified
+[INFO ] 2023-07-07 16:52:43.970 [main] Log - status verified
+[INFO ] 2023-07-07 16:52:43.970 [main] Log - status verified
+[INFO ] 2023-07-07 16:52:43.971 [main] Log - status verified
+[INFO ] 2023-07-07 16:52:43.971 [main] Log - status verified
+[INFO ] 2023-07-07 16:52:43.972 [main] Log - status verified
+[INFO ] 2023-07-07 16:52:43.973 [main] Log - status verified
+[INFO ] 2023-07-07 16:52:43.973 [main] Log - status verified
+[INFO ] 2023-07-07 16:52:43.974 [main] Log - status verified
+[INFO ] 2023-07-07 16:52:43.975 [main] Log - status verified
+[INFO ] 2023-07-07 16:52:43.984 [main] Log - This test is successful Fetch_Json
+[INFO ] 2023-07-07 16:52:43.992 [main] Log - Starting test
+[INFO ] 2023-07-07 16:52:43.994 [main] Log - verify data types
+[INFO ] 2023-07-07 16:52:43.995 [main] Log - veryfing types
+[INFO ] 2023-07-07 16:52:43.996 [main] Log - getting the expected output
+[INFO ] 2023-07-07 16:52:44.000 [main] Log - verified d types
+[INFO ] 2023-07-07 16:52:44.002 [main] Log - This test is successful Verify_Types
+[INFO ] 2023-07-07 16:52:44.006 [main] Log - Starting test
+[INFO ] 2023-07-07 16:52:44.007 [main] Log - verify schemas
+[INFO ] 2023-07-07 16:52:44.008 [main] Log - checking schemas
+[ERROR] 2023-07-07 16:52:44.970 [main] Log - The schemas of the two objects are different.
+[INFO ] 2023-07-07 16:52:44.972 [main] Log - This test is successful Verify_Schemas
+[INFO ] 2023-07-07 16:52:45.790 [main] Log - End
+[INFO ] 2023-07-07 17:00:22.913 [main] Log - report step up
+[INFO ] 2023-07-07 17:00:29.178 [main] Log - url:
+[INFO ] 2023-07-07 17:00:29.179 [main] Log - http://localhostpublic/v2/users
+[INFO ] 2023-07-07 17:00:29.179 [main] Log - fetching data
+[INFO ] 2023-07-07 17:00:29.397 [main] Log - Starting test
+[INFO ] 2023-07-07 17:00:29.398 [main] Log - verify status
+[INFO ] 2023-07-07 17:00:29.399 [main] Log - veryfing status
+[INFO ] 2023-07-07 17:00:29.400 [main] Log - status verified
+[INFO ] 2023-07-07 17:00:29.401 [main] Log - status verified
+[INFO ] 2023-07-07 17:00:29.401 [main] Log - status verified
+[INFO ] 2023-07-07 17:00:29.402 [main] Log - status verified
+[INFO ] 2023-07-07 17:00:29.403 [main] Log - status verified
+[INFO ] 2023-07-07 17:00:29.404 [main] Log - status verified
+[INFO ] 2023-07-07 17:00:29.404 [main] Log - status verified
+[INFO ] 2023-07-07 17:00:29.405 [main] Log - status verified
+[INFO ] 2023-07-07 17:00:29.406 [main] Log - status verified
+[INFO ] 2023-07-07 17:00:29.406 [main] Log - status verified
+[INFO ] 2023-07-07 17:00:29.412 [main] Log - This test is successful Fetch_Json
+[INFO ] 2023-07-07 17:00:29.420 [main] Log - Starting test
+[INFO ] 2023-07-07 17:00:29.421 [main] Log - verify data types
+[INFO ] 2023-07-07 17:00:29.421 [main] Log - veryfing types
+[INFO ] 2023-07-07 17:00:29.422 [main] Log - getting the expected output
+[INFO ] 2023-07-07 17:00:29.425 [main] Log - verified d types
+[INFO ] 2023-07-07 17:00:29.427 [main] Log - This test is successful Verify_Types
+[INFO ] 2023-07-07 17:00:29.430 [main] Log - Starting test
+[INFO ] 2023-07-07 17:00:29.431 [main] Log - verify schemas
+[INFO ] 2023-07-07 17:00:29.432 [main] Log - checking schemas
+[ERROR] 2023-07-07 17:00:30.484 [main] Log - The schemas of the two objects are different.
+[INFO ] 2023-07-07 17:00:30.486 [main] Log - This test is successful Verify_Schemas
+[INFO ] 2023-07-07 17:00:31.308 [main] Log - End
