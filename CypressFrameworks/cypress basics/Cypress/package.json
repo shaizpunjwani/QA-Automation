@@ -1,0 +1,22 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules\\.bin\\cypress run",
+    "Mainfile": "npm run test -- --spec cypress\\integration\\examples\\FrameworkTest.js",
+    "Head": "npm run Mainfile -- --headed --browser chrome",
+    "Reporter": "npm run Head -- --reporter mochawesome",
+    "ReporterWHead": "npm run Mainfile -- --reporter mochawesome"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.2.0",
+    "mochawesome": "^7.1.3"
+  },
+  "dependencies": {
+    "cypress-iframe": "^1.0.1"
+  }
+}
