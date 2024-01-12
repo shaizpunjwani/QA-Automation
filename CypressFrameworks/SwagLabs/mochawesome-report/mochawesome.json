@@ -1,0 +1,207 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 6,
+    "passes": 5,
+    "pending": 0,
+    "failures": 1,
+    "start": "2024-01-12T11:47:06.807Z",
+    "end": "2024-01-12T11:47:30.905Z",
+    "duration": 24098,
+    "testsRegistered": 6,
+    "passPercent": 83.33333333333334,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false
+  },
+  "results": [
+    {
+      "uuid": "faf90211-ee86-42be-a99d-f6861693d20a",
+      "title": "",
+      "fullFile": "cypress\\Integration\\BDD\\Login.feature",
+      "file": "cypress\\Integration\\BDD\\Login.feature",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [],
+      "suites": [
+        {
+          "uuid": "8a01c723-668e-4da8-9383-fc98799aad86",
+          "title": "Login functionality",
+          "fullFile": "",
+          "file": "",
+          "beforeHooks": [],
+          "afterHooks": [],
+          "tests": [
+            {
+              "title": "Enter the credentials in swaglabs (example #1)",
+              "fullTitle": "Login functionality Enter the credentials in swaglabs (example #1)",
+              "timedOut": null,
+              "duration": 2306,
+              "state": "passed",
+              "speed": "fast",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "",
+              "err": {},
+              "uuid": "e01987ae-53c1-4825-945a-ad067172e5e8",
+              "parentUUID": "8a01c723-668e-4da8-9383-fc98799aad86",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "Enter the credentials in swaglabs (example #2)",
+              "fullTitle": "Login functionality Enter the credentials in swaglabs (example #2)",
+              "timedOut": null,
+              "duration": 9333,
+              "state": "failed",
+              "speed": null,
+              "pass": false,
+              "fail": true,
+              "pending": false,
+              "context": "\"C:\\\\Users\\\\TDP\\\\Desktop\\\\Cypress BDD\\\\SwagLabs\\\\cypress\\\\screenshots/Login functionality -- Enter the credentials in swaglabs (example #2) (failed).png\"",
+              "code": "",
+              "err": {
+                "message": "AssertionError: Timed out retrying after 8000ms: Expected to find element: `div.app_logo`, but never found it.",
+                "estack": "AssertionError: Timed out retrying after 8000ms: Expected to find element: `div.app_logo`, but never found it.\n    at HomePage.get_Homepg_Logo_Selector (cypress/Integration/PageObjects/HomePage.js:67:18)\n    at HomePage.Validate_Landed_Page (cypress/Integration/PageObjects/HomePage.js:45:31)\n    at Context.eval (cypress/support/step_definitions/sharedsteps.js:20:13)\n    at Registry.runStepDefininition (node_modules/@badeball/cypress-cucumber-preprocessor/dist/registry.js:160:0)\n    at Object.fn (node_modules/@badeball/cypress-cucumber-preprocessor/dist/browser-runtime.js:367:0)\n    at runStepWithLogGroup (node_modules/@badeball/cypress-cucumber-preprocessor/dist/helpers/cypress.js:51:0)\n    at Context.eval (node_modules/@badeball/cypress-cucumber-preprocessor/dist/browser-runtime.js:363:0)",
+                "diff": null
+              },
+              "uuid": "de79eb49-81e3-48e5-a6b4-adaa7b365039",
+              "parentUUID": "8a01c723-668e-4da8-9383-fc98799aad86",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "Enter the credentials in swaglabs (example #3)",
+              "fullTitle": "Login functionality Enter the credentials in swaglabs (example #3)",
+              "timedOut": null,
+              "duration": 1044,
+              "state": "passed",
+              "speed": "fast",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "",
+              "err": {},
+              "uuid": "70d0153d-e58e-477e-bbef-55c47ca105af",
+              "parentUUID": "8a01c723-668e-4da8-9383-fc98799aad86",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "Enter the credentials in swaglabs (example #4)",
+              "fullTitle": "Login functionality Enter the credentials in swaglabs (example #4)",
+              "timedOut": null,
+              "duration": 6213,
+              "state": "passed",
+              "speed": "medium",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "",
+              "err": {},
+              "uuid": "af57c1c1-5817-4635-b696-ad3b57796ba8",
+              "parentUUID": "8a01c723-668e-4da8-9383-fc98799aad86",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "Enter the credentials in swaglabs (example #5)",
+              "fullTitle": "Login functionality Enter the credentials in swaglabs (example #5)",
+              "timedOut": null,
+              "duration": 930,
+              "state": "passed",
+              "speed": "fast",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "",
+              "err": {},
+              "uuid": "7b978ab4-bfbb-40a4-b7ef-a03ec627a8b3",
+              "parentUUID": "8a01c723-668e-4da8-9383-fc98799aad86",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "Enter the credentials in swaglabs (example #6)",
+              "fullTitle": "Login functionality Enter the credentials in swaglabs (example #6)",
+              "timedOut": null,
+              "duration": 900,
+              "state": "passed",
+              "speed": "fast",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "",
+              "err": {},
+              "uuid": "dae52d06-881d-4f8c-913c-96eb058c789e",
+              "parentUUID": "8a01c723-668e-4da8-9383-fc98799aad86",
+              "isHook": false,
+              "skipped": false
+            }
+          ],
+          "suites": [],
+          "passes": [
+            "e01987ae-53c1-4825-945a-ad067172e5e8",
+            "70d0153d-e58e-477e-bbef-55c47ca105af",
+            "af57c1c1-5817-4635-b696-ad3b57796ba8",
+            "7b978ab4-bfbb-40a4-b7ef-a03ec627a8b3",
+            "dae52d06-881d-4f8c-913c-96eb058c789e"
+          ],
+          "failures": [
+            "de79eb49-81e3-48e5-a6b4-adaa7b365039"
+          ],
+          "pending": [],
+          "skipped": [],
+          "duration": 20726,
+          "root": false,
+          "rootEmpty": false,
+          "_timeout": 2000
+        }
+      ],
+      "passes": [],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 0,
+      "root": true,
+      "rootEmpty": true,
+      "_timeout": 2000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "7.0.1"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "mochawesome",
+        "saveHtml": true,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false,
+        "code": false
+      },
+      "version": "7.1.3"
+    },
+    "marge": {
+      "options": {
+        "charts": true,
+        "reportPageTitle": "SwagLabs",
+        "embeddedScreenshots": true,
+        "inlineAssets": true,
+        "saveAllAttempts": true,
+        "code": "[Function code]"
+      },
+      "version": "6.2.0"
+    }
+  }
+}
