@@ -1,0 +1,31 @@
+{
+  "name": "swaglabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules\\.bin\\cypress run",
+    "Mainfile": "npm run test -- --spec cypress\\Integration\\BDD\\*.feature",
+    "Head": "npm run Mainfile -- --headed --browser chrome",
+    "Reporter": "npm run Head -- --reporter mochawesome",
+    "ReporterWHead": "npm run Mainfile -- --reporter mochawesome"
+  },
+  "cypress-cucumber-preprocessor": {
+    "json": {
+      "enabled": true,
+      "output": "cypress/cucumberReports/results.json"
+    }
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.2",
+    "multiple-cucumber-html-reporter": "^3.6.0"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.0.0",
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "convert-excel-to-json": "^1.7.0",
+    "cypress-mochawesome-reporter": "^3.8.0"
+  }
+}

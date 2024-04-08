@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="30.672" tests="14" errors="0" skipped="0" failures="2">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="surefire.suiteXmlFiles" value="testng.xml"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\TDP\Desktop\SwagLabsProject\target\test-classes;C:\Users\TDP\Desktop\SwagLabsProject\target\classes;C:\Users\TDP\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-java\4.6.0\selenium-java-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-api\4.6.0\selenium-api-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.6.0\selenium-chrome-driver-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.6.0\selenium-chromium-driver-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v105\4.6.0\selenium-devtools-v105-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v106\4.6.0\selenium-devtools-v106-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v107\4.6.0\selenium-devtools-v107-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.6.0\selenium-devtools-v85-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.6.0\selenium-edge-driver-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.6.0\selenium-firefox-driver-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.6.0\selenium-ie-driver-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.6.0\selenium-remote-driver-4.6.0.jar;C:\Users\TDP\.m2\repository\io\netty\netty-buffer\4.1.84.Final\netty-buffer-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-codec-http\4.1.84.Final\netty-codec-http-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-codec\4.1.84.Final\netty-codec-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-handler\4.1.84.Final\netty-handler-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-common\4.1.84.Final\netty-common-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-transport-classes-epoll\4.1.84.Final\netty-transport-classes-epoll-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-transport-classes-kqueue\4.1.84.Final\netty-transport-classes-kqueue-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-transport-native-epoll\4.1.84.Final\netty-transport-native-epoll-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.84.Final\netty-transport-native-kqueue-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.84.Final\netty-transport-native-unix-common-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-transport\4.1.84.Final\netty-transport-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-resolver\4.1.84.Final\netty-resolver-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-api\1.19.0\opentelemetry-api-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-context\1.19.0\opentelemetry-context-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.19.0\opentelemetry-exporter-logging-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.19.0\opentelemetry-sdk-metrics-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.19.0-alpha\opentelemetry-sdk-logs-1.19.0-alpha.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-api-logs\1.19.0-alpha\opentelemetry-api-logs-1.19.0-alpha.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.19.0\opentelemetry-sdk-common-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.19.0\opentelemetry-sdk-extension-autoconfigure-spi-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.19.0-alpha\opentelemetry-sdk-extension-autoconfigure-1.19.0-alpha.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-exporter-common\1.19.0\opentelemetry-exporter-common-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.19.0\opentelemetry-sdk-trace-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.19.0\opentelemetry-sdk-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-semconv\1.19.0-alpha\opentelemetry-semconv-1.19.0-alpha.jar;C:\Users\TDP\.m2\repository\io\ous\jtoml\2.0.0\jtoml-2.0.0.jar;C:\Users\TDP\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\TDP\.m2\repository\org\asynchttpclient\async-http-client\2.12.3\async-http-client-2.12.3.jar;C:\Users\TDP\.m2\repository\org\asynchttpclient\async-http-client-netty-utils\2.12.3\async-http-client-netty-utils-2.12.3.jar;C:\Users\TDP\.m2\repository\io\netty\netty-codec-socks\4.1.60.Final\netty-codec-socks-4.1.60.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-handler-proxy\4.1.60.Final\netty-handler-proxy-4.1.60.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-transport-native-epoll\4.1.60.Final\netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar;C:\Users\TDP\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.60.Final\netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar;C:\Users\TDP\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\TDP\.m2\repository\com\typesafe\netty\netty-reactive-streams\2.0.4\netty-reactive-streams-2.0.4.jar;C:\Users\TDP\.m2\repository\com\sun\activation\jakarta.activation\1.2.2\jakarta.activation-1.2.2.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-http\4.6.0\selenium-http-4.6.0.jar;C:\Users\TDP\.m2\repository\dev\failsafe\failsafe\3.3.0\failsafe-3.3.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.6.0\selenium-manager-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.6.0\selenium-safari-driver-4.6.0.jar;C:\Users\TDP\.m2\repository\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;C:\Users\TDP\.m2\repository\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\TDP\.m2\repository\io\github\bonigarcia\webdrivermanager\4.4.3\webdrivermanager-4.4.3.jar;C:\Users\TDP\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\TDP\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\TDP\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\TDP\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\TDP\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.3\httpclient5-5.0.3.jar;C:\Users\TDP\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.2\httpcore5-5.0.2.jar;C:\Users\TDP\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.2\httpcore5-h2-5.0.2.jar;C:\Users\TDP\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\TDP\.m2\repository\org\rauschig\jarchivelib\1.1.0\jarchivelib-1.1.0.jar;C:\Users\TDP\.m2\repository\org\apache\commons\commons-compress\1.20\commons-compress-1.20.jar;C:\Users\TDP\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\TDP\.m2\repository\org\testng\testng\6.3\testng-6.3.jar;C:\Users\TDP\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;C:\Users\TDP\.m2\repository\com\beust\jcommander\1.12\jcommander-1.12.jar;C:\Users\TDP\.m2\repository\org\yaml\snakeyaml\1.6\snakeyaml-1.6.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-support\4.6.0\selenium-support-4.6.0.jar;C:\Users\TDP\.m2\repository\com\google\auto\service\auto-service-annotations\1.0.1\auto-service-annotations-1.0.1.jar;C:\Users\TDP\.m2\repository\com\google\auto\service\auto-service\1.0.1\auto-service-1.0.1.jar;C:\Users\TDP\.m2\repository\com\google\auto\auto-common\1.2\auto-common-1.2.jar;C:\Users\TDP\.m2\repository\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\TDP\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\TDP\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\TDP\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\TDP\.m2\repository\org\checkerframework\checker-qual\3.12.0\checker-qual-3.12.0.jar;C:\Users\TDP\.m2\repository\com\google\errorprone\error_prone_annotations\2.11.0\error_prone_annotations-2.11.0.jar;C:\Users\TDP\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\TDP\.m2\repository\net\bytebuddy\byte-buddy\1.12.18\byte-buddy-1.12.18.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-json\4.6.0\selenium-json-4.6.0.jar;C:\Users\TDP\.m2\repository\com\aventstack\extentreports\4.0.0\extentreports-4.0.0.jar;C:\Users\TDP\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\TDP\.m2\repository\org\mongodb\mongodb-driver\3.3.0\mongodb-driver-3.3.0.jar;C:\Users\TDP\.m2\repository\org\mongodb\mongodb-driver-core\3.3.0\mongodb-driver-core-3.3.0.jar;C:\Users\TDP\.m2\repository\org\mongodb\bson\3.3.0\bson-3.3.0.jar;C:\Users\TDP\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\TDP\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\TDP\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\TDP\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\Users\TDP\.m2\repository\com\relevantcodes\extentreports\2.41.2\extentreports-2.41.2.jar;C:\Users\TDP\.m2\repository\org\xerial\sqlite-jdbc\3.8.11.1\sqlite-jdbc-3.8.11.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Asia/Karachi"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11\bin"/>
+    <property name="sun.java.command" value="C:\Users\TDP\AppData\Local\Temp\surefire9646299512000942501\surefirebooter-20240219205121008_3.jar C:\Users\TDP\AppData\Local\Temp\surefire9646299512000942501 2024-02-19T20-51-20_237-jvmRun1 surefire-20240219205121008_1tmp surefire_0-20240219205121008_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\TDP\Desktop\SwagLabsProject\target\test-classes;C:\Users\TDP\Desktop\SwagLabsProject\target\classes;C:\Users\TDP\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-java\4.6.0\selenium-java-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-api\4.6.0\selenium-api-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.6.0\selenium-chrome-driver-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.6.0\selenium-chromium-driver-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v105\4.6.0\selenium-devtools-v105-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v106\4.6.0\selenium-devtools-v106-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v107\4.6.0\selenium-devtools-v107-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.6.0\selenium-devtools-v85-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.6.0\selenium-edge-driver-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.6.0\selenium-firefox-driver-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.6.0\selenium-ie-driver-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.6.0\selenium-remote-driver-4.6.0.jar;C:\Users\TDP\.m2\repository\io\netty\netty-buffer\4.1.84.Final\netty-buffer-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-codec-http\4.1.84.Final\netty-codec-http-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-codec\4.1.84.Final\netty-codec-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-handler\4.1.84.Final\netty-handler-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-common\4.1.84.Final\netty-common-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-transport-classes-epoll\4.1.84.Final\netty-transport-classes-epoll-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-transport-classes-kqueue\4.1.84.Final\netty-transport-classes-kqueue-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-transport-native-epoll\4.1.84.Final\netty-transport-native-epoll-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.84.Final\netty-transport-native-kqueue-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.84.Final\netty-transport-native-unix-common-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-transport\4.1.84.Final\netty-transport-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-resolver\4.1.84.Final\netty-resolver-4.1.84.Final.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-api\1.19.0\opentelemetry-api-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-context\1.19.0\opentelemetry-context-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.19.0\opentelemetry-exporter-logging-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.19.0\opentelemetry-sdk-metrics-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.19.0-alpha\opentelemetry-sdk-logs-1.19.0-alpha.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-api-logs\1.19.0-alpha\opentelemetry-api-logs-1.19.0-alpha.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.19.0\opentelemetry-sdk-common-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.19.0\opentelemetry-sdk-extension-autoconfigure-spi-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.19.0-alpha\opentelemetry-sdk-extension-autoconfigure-1.19.0-alpha.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-exporter-common\1.19.0\opentelemetry-exporter-common-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.19.0\opentelemetry-sdk-trace-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.19.0\opentelemetry-sdk-1.19.0.jar;C:\Users\TDP\.m2\repository\io\opentelemetry\opentelemetry-semconv\1.19.0-alpha\opentelemetry-semconv-1.19.0-alpha.jar;C:\Users\TDP\.m2\repository\io\ous\jtoml\2.0.0\jtoml-2.0.0.jar;C:\Users\TDP\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\TDP\.m2\repository\org\asynchttpclient\async-http-client\2.12.3\async-http-client-2.12.3.jar;C:\Users\TDP\.m2\repository\org\asynchttpclient\async-http-client-netty-utils\2.12.3\async-http-client-netty-utils-2.12.3.jar;C:\Users\TDP\.m2\repository\io\netty\netty-codec-socks\4.1.60.Final\netty-codec-socks-4.1.60.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-handler-proxy\4.1.60.Final\netty-handler-proxy-4.1.60.Final.jar;C:\Users\TDP\.m2\repository\io\netty\netty-transport-native-epoll\4.1.60.Final\netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar;C:\Users\TDP\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.60.Final\netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar;C:\Users\TDP\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\TDP\.m2\repository\com\typesafe\netty\netty-reactive-streams\2.0.4\netty-reactive-streams-2.0.4.jar;C:\Users\TDP\.m2\repository\com\sun\activation\jakarta.activation\1.2.2\jakarta.activation-1.2.2.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-http\4.6.0\selenium-http-4.6.0.jar;C:\Users\TDP\.m2\repository\dev\failsafe\failsafe\3.3.0\failsafe-3.3.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.6.0\selenium-manager-4.6.0.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.6.0\selenium-safari-driver-4.6.0.jar;C:\Users\TDP\.m2\repository\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;C:\Users\TDP\.m2\repository\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;C:\Users\TDP\.m2\repository\io\github\bonigarcia\webdrivermanager\4.4.3\webdrivermanager-4.4.3.jar;C:\Users\TDP\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\TDP\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\TDP\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\TDP\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\TDP\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.3\httpclient5-5.0.3.jar;C:\Users\TDP\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.2\httpcore5-5.0.2.jar;C:\Users\TDP\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.2\httpcore5-h2-5.0.2.jar;C:\Users\TDP\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\TDP\.m2\repository\org\rauschig\jarchivelib\1.1.0\jarchivelib-1.1.0.jar;C:\Users\TDP\.m2\repository\org\apache\commons\commons-compress\1.20\commons-compress-1.20.jar;C:\Users\TDP\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\TDP\.m2\repository\org\testng\testng\6.3\testng-6.3.jar;C:\Users\TDP\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar;C:\Users\TDP\.m2\repository\com\beust\jcommander\1.12\jcommander-1.12.jar;C:\Users\TDP\.m2\repository\org\yaml\snakeyaml\1.6\snakeyaml-1.6.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-support\4.6.0\selenium-support-4.6.0.jar;C:\Users\TDP\.m2\repository\com\google\auto\service\auto-service-annotations\1.0.1\auto-service-annotations-1.0.1.jar;C:\Users\TDP\.m2\repository\com\google\auto\service\auto-service\1.0.1\auto-service-1.0.1.jar;C:\Users\TDP\.m2\repository\com\google\auto\auto-common\1.2\auto-common-1.2.jar;C:\Users\TDP\.m2\repository\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\TDP\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\TDP\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\TDP\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\TDP\.m2\repository\org\checkerframework\checker-qual\3.12.0\checker-qual-3.12.0.jar;C:\Users\TDP\.m2\repository\com\google\errorprone\error_prone_annotations\2.11.0\error_prone_annotations-2.11.0.jar;C:\Users\TDP\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\TDP\.m2\repository\net\bytebuddy\byte-buddy\1.12.18\byte-buddy-1.12.18.jar;C:\Users\TDP\.m2\repository\org\seleniumhq\selenium\selenium-json\4.6.0\selenium-json-4.6.0.jar;C:\Users\TDP\.m2\repository\com\aventstack\extentreports\4.0.0\extentreports-4.0.0.jar;C:\Users\TDP\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\TDP\.m2\repository\org\mongodb\mongodb-driver\3.3.0\mongodb-driver-3.3.0.jar;C:\Users\TDP\.m2\repository\org\mongodb\mongodb-driver-core\3.3.0\mongodb-driver-core-3.3.0.jar;C:\Users\TDP\.m2\repository\org\mongodb\bson\3.3.0\bson-3.3.0.jar;C:\Users\TDP\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\TDP\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\TDP\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\TDP\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\Users\TDP\.m2\repository\com\relevantcodes\extentreports\2.41.2\extentreports-2.41.2.jar;C:\Users\TDP\.m2\repository\org\xerial\sqlite-jdbc\3.8.11.1\sqlite-jdbc-3.8.11.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\TDP"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-04-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\TDP\Desktop\SwagLabsProject"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\TDP\AppData\Local\Temp\surefire9646299512000942501\surefirebooter-20240219205121008_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.19+9-LTS-224"/>
+    <property name="user.name" value="TDP"/>
+    <property name="path.separator" value=";"/>
+    <property name="otel.metrics.exporter" value="none"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="otel.traces.exporter" value="none"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\TDP\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\TDP\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.19"/>
+    <property name="user.dir" value="C:\Users\TDP\Desktop\SwagLabsProject"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander;;C:\Python311\Scripts\;C:\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\WireGuard\;C:\strawberry\c\bin;C:\strawberry\perl\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Maven\apache-maven-3.9.6\bin;C:\Users\TDP\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Azure Data Studio\bin;C:\Users\TDP\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\TDP\AppData\Roaming\npm;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.19+9-LTS-224"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="Login[problem_user, secret_sauce](1)" classname="Testing.LoginTest" time="1.361">
+    <system-out><![CDATA[[INFO ] 2024-02-19 20:51:22.839 [main] Log - Starting suiteAll Test Suite
+[INFO ] 2024-02-19 20:51:22.976 [main] Log - report step up
+[INFO ] 2024-02-19 20:51:27.459 [main] Log - Web Browser launched
+[INFO ] 2024-02-19 20:51:27.476 [main] Log - Starting test
+[INFO ] 2024-02-19 20:51:27.477 [main] Log - Using username/Firstname: problem_user
+[INFO ] 2024-02-19 20:51:27.477 [main] Log - logging
+[INFO ] 2024-02-19 20:51:27.477 [main] Log - Login atttempt
+[INFO ] 2024-02-19 20:51:28.002 [main] Log - Landed homepg
+[INFO ] 2024-02-19 20:51:28.818 [main] Log - Logout
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 111.0.5563.41 (976ef12907ef9b413c2d929c043307b415d27b9e-refs/branch-heads/5563@{#737}) on port 9223
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+[I1P7v0863 5p7o8r8t3 .n0o90t] [aSvEVaEiRlEa]b:l eb.in dE(x) irteitnurgn.ed. .an
+ error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+Feb 19, 2024 8:51:23 PM org.openqa.selenium.remote.tracing.opentelemetry.OpenTelemetryTracer createTracer
+INFO: Using OpenTelemetry for tracing
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+  </testcase>
+  <testcase name="Login[locked_out_user, secret_sauce](2)" classname="Testing.LoginTest" time="5.81">
+    <failure message="Login failed" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: Login failed
+	at org.testng.Assert.fail(Assert.java:89)
+	at Testing.LoginTest.Login(LoginTest.java:45)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:691)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:883)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1208)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:753)
+	at org.testng.TestRunner.run(TestRunner.java:613)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1137)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1062)
+	at org.testng.TestNG.run(TestNG.java:974)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]></failure>
+    <system-out><![CDATA[[INFO ] 2024-02-19 20:51:28.819 [main] Log - This test is successful Login
+[INFO ] 2024-02-19 20:51:28.821 [main] Log - Starting test
+[INFO ] 2024-02-19 20:51:28.822 [main] Log - Using username/Firstname: locked_out_user
+[INFO ] 2024-02-19 20:51:28.824 [main] Log - logging
+[INFO ] 2024-02-19 20:51:28.825 [main] Log - Login atttempt
+]]></system-out>
+  </testcase>
+  <testcase name="Login[locked_out_user, secret_sauce](3)" classname="Testing.LoginTest" time="5.491">
+    <failure message="Login failed" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: Login failed
+	at org.testng.Assert.fail(Assert.java:89)
+	at Testing.LoginTest.Login(LoginTest.java:45)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:691)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1031)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:753)
+	at org.testng.TestRunner.run(TestRunner.java:613)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1137)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1062)
+	at org.testng.TestNG.run(TestNG.java:974)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]></failure>
+    <system-out><![CDATA[[ERROR] 2024-02-19 20:51:34.878 [main] Log - Test failed
+[INFO ] 2024-02-19 20:51:34.880 [main] Log - logging
+[INFO ] 2024-02-19 20:51:34.880 [main] Log - Retrying test
+[INFO ] 2024-02-19 20:51:34.881 [main] Log - Login atttempt
+]]></system-out>
+  </testcase>
+  <testcase name="Login[performance_glitch_user, secret_sauce](4)" classname="Testing.LoginTest" time="6.187">
+    <system-out><![CDATA[[ERROR] 2024-02-19 20:51:40.487 [main] Log - Test failed
+[INFO ] 2024-02-19 20:51:40.489 [main] Log - Starting test
+[INFO ] 2024-02-19 20:51:40.489 [main] Log - Using username/Firstname: performance_glitch_user
+[INFO ] 2024-02-19 20:51:40.490 [main] Log - logging
+[INFO ] 2024-02-19 20:51:40.490 [main] Log - Login atttempt
+[INFO ] 2024-02-19 20:51:45.877 [main] Log - Landed homepg
+[INFO ] 2024-02-19 20:51:46.676 [main] Log - Logout
+]]></system-out>
+  </testcase>
+  <testcase name="FLogin" classname="Testing.LoginTest" time="0.35">
+    <system-out><![CDATA[[INFO ] 2024-02-19 20:51:46.676 [main] Log - This test is successful Login
+[INFO ] 2024-02-19 20:51:46.677 [main] Log - Starting test
+[INFO ] 2024-02-19 20:51:46.678 [main] Log - Using username: standard_user
+[INFO ] 2024-02-19 20:51:46.678 [main] Log - final login
+[INFO ] 2024-02-19 20:51:46.679 [main] Log - Login atttempt
+[INFO ] 2024-02-19 20:51:46.984 [main] Log - Landed homepg
+]]></system-out>
+  </testcase>
+  <testcase name="AddToCart" classname="Testing.HomepgTest" time="0.126">
+    <system-out><![CDATA[[INFO ] 2024-02-19 20:51:47.028 [main] Log - This test is successful FLogin
+[INFO ] 2024-02-19 20:51:47.030 [main] Log - Starting test
+[INFO ] 2024-02-19 20:51:47.030 [main] Log - Adding products to cart
+[INFO ] 2024-02-19 20:51:47.031 [main] Log - Selecting products
+[INFO ] 2024-02-19 20:51:47.046 [main] Log - added product
+[INFO ] 2024-02-19 20:51:47.076 [main] Log - added product
+]]></system-out>
+  </testcase>
+  <testcase name="CheckCart" classname="Testing.HomepgTest" time="0.077">
+    <system-out><![CDATA[[INFO ] 2024-02-19 20:51:47.166 [main] Log - This test is successful AddToCart
+[INFO ] 2024-02-19 20:51:47.167 [main] Log - Starting test
+[INFO ] 2024-02-19 20:51:47.168 [main] Log - Checking the Added products in Cart
+[INFO ] 2024-02-19 20:51:47.168 [main] Log - Checking products in cart
+[INFO ] 2024-02-19 20:51:47.168 [main] Log - Going to cart
+]]></system-out>
+  </testcase>
+  <testcase name="RemoveProduct" classname="Testing.CartpgTest" time="0.094">
+    <system-out><![CDATA[[INFO ] 2024-02-19 20:51:47.245 [main] Log - This test is successful CheckCart
+[INFO ] 2024-02-19 20:51:47.246 [main] Log - Starting test
+[INFO ] 2024-02-19 20:51:47.247 [main] Log - Removing products from Cart
+[INFO ] 2024-02-19 20:51:47.247 [main] Log - Removing products
+[INFO ] 2024-02-19 20:51:47.309 [main] Log - product removed
+]]></system-out>
+  </testcase>
+  <testcase name="CheckOut" classname="Testing.CartpgTest" time="0.136">
+    <system-out><![CDATA[[INFO ] 2024-02-19 20:51:47.350 [main] Log - This test is successful RemoveProduct
+[INFO ] 2024-02-19 20:51:47.350 [main] Log - Starting test
+[INFO ] 2024-02-19 20:51:47.351 [main] Log - Going to Checkout Products
+[INFO ] 2024-02-19 20:51:47.351 [main] Log - Check out products
+[INFO ] 2024-02-19 20:51:47.415 [main] Log - Going to checkout
+]]></system-out>
+  </testcase>
+  <testcase name="AddIncorrectInfo[, akber, 12345](1)" classname="Testing.CheckoutpgTest" time="0.638">
+    <system-out><![CDATA[[INFO ] 2024-02-19 20:51:47.487 [main] Log - This test is successful CheckOut
+[INFO ] 2024-02-19 20:51:47.488 [main] Log - Starting test
+[INFO ] 2024-02-19 20:51:47.489 [main] Log - Using username/Firstname: 
+[INFO ] 2024-02-19 20:51:47.489 [main] Log - Filling out the incorrect details
+[INFO ] 2024-02-19 20:51:47.489 [main] Log - Setting incorrect values
+]]></system-out>
+  </testcase>
+  <testcase name="AddIncorrectInfo[shaiz, , 12345](2)" classname="Testing.CheckoutpgTest" time="0.586">
+    <system-out><![CDATA[[INFO ] 2024-02-19 20:51:48.127 [main] Log - This test is successful AddIncorrectInfo
+[INFO ] 2024-02-19 20:51:48.128 [main] Log - Starting test
+[INFO ] 2024-02-19 20:51:48.128 [main] Log - Using username/Firstname: shaiz
+[INFO ] 2024-02-19 20:51:48.129 [main] Log - Filling out the incorrect details
+[INFO ] 2024-02-19 20:51:48.129 [main] Log - Setting incorrect values
+]]></system-out>
+  </testcase>
+  <testcase name="AddIncorrectInfo[shaiz, akber, ](3)" classname="Testing.CheckoutpgTest" time="0.593">
+    <system-out><![CDATA[[INFO ] 2024-02-19 20:51:48.716 [main] Log - This test is successful AddIncorrectInfo
+[INFO ] 2024-02-19 20:51:48.717 [main] Log - Starting test
+[INFO ] 2024-02-19 20:51:48.718 [main] Log - Using username/Firstname: shaiz
+[INFO ] 2024-02-19 20:51:48.719 [main] Log - Filling out the incorrect details
+[INFO ] 2024-02-19 20:51:48.719 [main] Log - Setting incorrect values
+]]></system-out>
+  </testcase>
+  <testcase name="AddCorrectInfo" classname="Testing.CheckoutpgTest" time="0.469">
+    <system-out><![CDATA[[INFO ] 2024-02-19 20:51:49.311 [main] Log - This test is successful AddIncorrectInfo
+[INFO ] 2024-02-19 20:51:49.312 [main] Log - Starting test
+[INFO ] 2024-02-19 20:51:49.312 [main] Log - Using username: shaiz
+[INFO ] 2024-02-19 20:51:49.313 [main] Log - Adding correct info
+[INFO ] 2024-02-19 20:51:49.313 [main] Log - Addning correct info
+]]></system-out>
+  </testcase>
+  <testcase name="GetInfo" classname="Testing.FinishpgTest" time="2.297">
+    <system-out><![CDATA[[INFO ] 2024-02-19 20:51:49.782 [main] Log - This test is successful AddCorrectInfo
+[INFO ] 2024-02-19 20:51:49.783 [main] Log - Starting test
+[INFO ] 2024-02-19 20:51:49.783 [main] Log - Getting the total price, payment info
+[INFO ] 2024-02-19 20:51:51.788 [main] Log - Validating info
+[INFO ] 2024-02-19 20:51:51.941 [main] Log - payment infoSauceCard #31337
+[INFO ] 2024-02-19 20:51:51.941 [main] Log - ship infoFree Pony Express Delivery!
+[INFO ] 2024-02-19 20:51:51.941 [main] Log - price infoTotal: $10.79
+]]></system-out>
+  </testcase>
+</testsuite>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" verbose="0">
+  <listeners>
+    <listener class-name="Listeners.ExtentReportListener"/>
+    <listener class-name="Listeners.Transform"/>
+    <listener class-name="Listeners.suitelistener"/>
+    <listener class-name="Listeners.ReportManager"/>
+  </listeners>
+  <test name="C:/Users/USER/IdeaProjects/SwagLabsProject(failed)" preserve-order="true">
+    <classes>
+      <class name="Testing.LoginTest">
+        <methods>
+          <include name="Login" invocation-numbers="1 1"/>
+          <include name="Driver"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
