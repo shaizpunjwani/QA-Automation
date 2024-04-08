@@ -1,0 +1,9 @@
+{
+    "baseurl": "https://restful-booker.herokuapp.com",
+    
+    "endpoints": {
+
+        "auth": "/auth",
+        "create": "/booking"
+    }
+}

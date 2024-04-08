@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1703518480949,110,Get Session,200,OK,Thread Group 1-1,text,true,,1717,139,1,1,http://127.0.0.1:1080/cgi-bin/nav.pl?in=home,103,0,37
+1703518481063,85,Login,200,OK,Thread Group 1-1,text,true,,873,313,1,1,http://127.0.0.1:1080/cgi-bin/login.pl,83,0,0
+1703518481148,116,Select Destination,200,OK,Thread Group 1-1,text,true,,2720,472,1,1,http://127.0.0.1:1080/cgi-bin/reservations.pl,114,0,0
+1703518481265,108,Select Flight,200,OK,Thread Group 1-1,text,true,,2904,373,1,1,http://127.0.0.1:1080/cgi-bin/reservations.pl,106,0,0
+1703518481373,107,Confirm Details,200,OK,Thread Group 1-1,text,true,,2834,550,1,1,http://127.0.0.1:1080/cgi-bin/reservations.pl,104,0,0

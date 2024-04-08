@@ -1,0 +1,71 @@
+2024-03-29 12:50:56,031 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2024-03-29 12:50:56,102 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-03-29 12:50:56,104 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-03-29 12:50:56,104 INFO o.a.j.JMeter: Loading additional properties from: C:\Users\TDP\Desktop\Jmeter\apache-jmeter-5.6.2\bin\jmeter.properties
+2024-03-29 12:50:56,124 INFO o.a.j.JMeter: Copyright (c) 1998-2023 The Apache Software Foundation
+2024-03-29 12:50:56,124 INFO o.a.j.JMeter: Version 5.6.2
+2024-03-29 12:50:56,125 INFO o.a.j.JMeter: java.version=11.0.19
+2024-03-29 12:50:56,125 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-03-29 12:50:56,125 INFO o.a.j.JMeter: os.name=Windows 10
+2024-03-29 12:50:56,125 INFO o.a.j.JMeter: os.arch=amd64
+2024-03-29 12:50:56,126 INFO o.a.j.JMeter: os.version=10.0
+2024-03-29 12:50:56,126 INFO o.a.j.JMeter: file.encoding=Cp1252
+2024-03-29 12:50:56,126 INFO o.a.j.JMeter: java.awt.headless=true
+2024-03-29 12:50:56,126 INFO o.a.j.JMeter: Max memory     =4273995776
+2024-03-29 12:50:56,127 INFO o.a.j.JMeter: Available Processors =8
+2024-03-29 12:50:56,148 INFO o.a.j.JMeter: Default Locale=English (United States)
+2024-03-29 12:50:56,148 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2024-03-29 12:50:56,149 INFO o.a.j.JMeter: JMeterHome=C:\Users\TDP\Desktop\Jmeter\apache-jmeter-5.6.2
+2024-03-29 12:50:56,149 INFO o.a.j.JMeter: user.dir  =C:\Users\TDP\Desktop\Jmeter\apache-jmeter-5.6.2\bin
+2024-03-29 12:50:56,151 INFO o.a.j.JMeter: PWD       =C:\Users\TDP\Desktop\Jmeter\apache-jmeter-5.6.2\bin
+2024-03-29 12:50:56,152 INFO o.a.j.JMeter: IP: 192.168.0.102 Name: DESKTOP-BFVPL0E FullName: DESKTOP-BFVPL0E
+2024-03-29 12:50:56,195 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'C:\Users\TDP\Desktop\Jmeter\apache-jmeter-5.6.2\bin\rep'
+2024-03-29 12:50:56,207 INFO o.a.j.r.d.ReportGenerator: ReportGenerator will use for Parsing the separator: ','
+2024-03-29 12:50:56,207 INFO o.a.j.r.d.ReportGenerator: Will only generate report from results file: C:\Users\TDP\Desktop\OrangePortalLoadTesting\summary.csv
+2024-03-29 12:50:56,208 INFO o.a.j.r.d.ReportGenerator: Reading report generator properties from: C:\Users\TDP\Desktop\Jmeter\apache-jmeter-5.6.2\bin\reportgenerator.properties
+2024-03-29 12:50:56,211 INFO o.a.j.r.d.ReportGenerator: Merging with JMeter properties
+2024-03-29 12:50:56,224 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.temp_dir' not found, using default value 'temp' instead.
+2024-03-29 12:50:56,232 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.apdex_per_transaction' not found, using default value 'null' instead.
+2024-03-29 12:50:56,250 INFO o.a.j.r.c.ReportGeneratorConfiguration: apdex_per_transaction is empty, not APDEX per transaction customization
+2024-03-29 12:50:56,251 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.sample_filter' not found, using default value 'null' instead.
+2024-03-29 12:50:56,251 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.report_title' not found, using default value 'null' instead.
+2024-03-29 12:50:56,251 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.start_date' not found, using default value 'null' instead.
+2024-03-29 12:50:56,251 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.end_date' not found, using default value 'null' instead.
+2024-03-29 12:50:56,252 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.date_format' not found, using default value 'null' instead.
+2024-03-29 12:50:56,277 INFO o.a.j.r.c.ReportGeneratorConfiguration: Will use date range start date: null, end date: null
+2024-03-29 12:50:56,291 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.totalTPS.exclude_controllers' not found, using default value 'false' instead.
+2024-03-29 12:50:56,292 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.activeThreadsOverTime.exclude_controllers' not found, using default value 'false' instead.
+2024-03-29 12:50:56,292 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.timeVsThreads.exclude_controllers' not found, using default value 'false' instead.
+2024-03-29 12:50:56,293 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimeDistribution.exclude_controllers' not found, using default value 'false' instead.
+2024-03-29 12:50:56,294 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.transactionsPerSecond.exclude_controllers' not found, using default value 'false' instead.
+2024-03-29 12:50:56,294 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentiles.exclude_controllers' not found, using default value 'false' instead.
+2024-03-29 12:50:56,295 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentilesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2024-03-29 12:50:56,295 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2024-03-29 12:50:56,296 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.connectTimeOverTime.exclude_controllers' not found, using default value 'false' instead.
+2024-03-29 12:50:56,296 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.latenciesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2024-03-29 12:50:56,299 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.filters_only_sample_series' not found, using default value 'true' instead.
+2024-03-29 12:50:56,299 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.series_filter' not found, using default value '' instead.
+2024-03-29 12:50:56,299 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.show_controllers_only' not found, using default value 'false' instead.
+2024-03-29 12:50:56,301 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.filters_only_sample_series' not found, using default value 'true' instead.
+2024-03-29 12:50:56,301 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.series_filter' not found, using default value '' instead.
+2024-03-29 12:50:56,301 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.show_controllers_only' not found, using default value 'false' instead.
+2024-03-29 12:50:56,808 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-03-29 12:50:56,889 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-03-29 12:50:56,898 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-03-29 12:50:56,936 WARN o.a.j.s.CSVSaveService: Unknown column name Label
+2024-03-29 12:50:56,953 WARN o.a.j.r.c.CsvSampleReader: File 'C:\Users\TDP\Desktop\OrangePortalLoadTesting\summary.csv' does not contain the field names header, ensure the jmeter.save.saveservice.* properties are the same as when the CSV file was created or the file may be read incorrectly when generating report
+2024-03-29 12:50:56,959 WARN o.a.j.r.c.CsvSampleReader: Short CSV read around line 2 of file 'C:\Users\TDP\Desktop\OrangePortalLoadTesting\summary.csv'. Could only read 11 elements of 17 expected. Data is [Login Controller, 150, 40534, 0, 125304, 32937.86, 4.00%, 0.22762, 102.19, 1.93, 459717.1]
+2024-03-29 12:50:56,959 ERROR o.a.j.JMeter: An error occurred: 
+org.apache.jmeter.report.core.SampleException: Mismatch between expected number of columns:17 and columns in CSV file:11, check your jmeter.save.saveservice.* configuration or check if line 2 in 'C:\Users\TDP\Desktop\OrangePortalLoadTesting\summary.csv' is complete
+	at org.apache.jmeter.report.core.CsvSampleReader.assertCorrectColumns(CsvSampleReader.java:201) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.report.core.CsvSampleReader.nextSample(CsvSampleReader.java:185) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.report.core.CsvSampleReader.<init>(CsvSampleReader.java:135) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.report.core.CsvSampleReader.<init>(CsvSampleReader.java:87) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.report.processor.CsvFileSampleSource.<init>(CsvFileSampleSource.java:111) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.report.dashboard.ReportGenerator.generate(ReportGenerator.java:210) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.JMeter.start(JMeter.java:485) [ApacheJMeter_core.jar:5.6.2]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.apache.jmeter.NewDriver.main(NewDriver.java:259) [ApacheJMeter.jar:5.6.2]
